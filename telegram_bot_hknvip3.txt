@@ -1,0 +1,746 @@
+hknvip3 VIP  Server started
+bot baslangic tarihi= 1688113003.210831
+telegram_pool basladı
+channel_updates basladi
+---------------------------------------------------------------------
+read_group_msg() mid= 311 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1688113010  msg: LONG
+Binance Futures - binance
+Pair: BCHUSDT
+Bid: 301.97 Ask:301.99
+Entry: 302.23 - 301.99
+Targets : 302.23 - 302.47 - 302.71 - 302.96 - 303.20 - 303.44 - 303.68 - 303.92 - 304.16 - 304.41
+Stop Loss: 295.95
+Leverage Cross 50x
+w: long
+w: binance futures - binance
+w: pair: bchusdt
+w: bid: 301.97 ask:301.99
+w: entry: 302.23 - 301.99
+w: targets : 302.23 - 302.47 - 302.71 - 302.96 - 303.20 - 303.44 - 303.68 - 303.92 - 304.16 - 304.41
+w: stop loss: 295.95
+w: leverage cross 50x
+signal: {'symbol': 'BCHUSDT', 'trend': 'LONG', 'entry1': 301.99, 'entry2': 302.23, 'tp1': 302.23, 'tp2': 302.47, 'tp3': 302.71, 'tp4': 302.96, 'tp5': 303.2, 'tp6': 303.44, 'tp7': 303.68, 'tp8': 303.92, 'tp9': 304.16, 'tp10': 304.41, 'sl': 295.95}
+read_signal signal_ayikla: {'symbol': 'BCHUSDT', 'trend': 'LONG', 'entry1': 301.99, 'entry2': 302.23, 'tp1': 302.23, 'tp2': 302.47, 'tp3': 302.71, 'tp4': 302.96, 'tp5': 303.2, 'tp6': 303.44, 'tp7': 303.68, 'tp8': 303.92, 'tp9': 304.16, 'tp10': 304.41, 'sl': 295.95}
+signal_hash: MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdCQ0hVU0RUJywgJ3RyZW5kJzogJ0xPTkcnLCAnZW50cnkxJzogMzAxLjk5LCAnZW50cnkyJzogMzAyLjIzLCAndHAxJzogMzAyLjIzLCAndHAyJzogMzAyLjQ3LCAndHAzJzogMzAyLjcxLCAndHA0JzogMzAyLjk2LCAndHA1JzogMzAzLjIsICd0cDYnOiAzMDMuNDQsICd0cDcnOiAzMDMuNjgsICd0cDgnOiAzMDMuOTIsICd0cDknOiAzMDQuMTYsICd0cDEwJzogMzA0LjQxLCAnc2wnOiAyOTUuOTV9
+signal_new_id: 312
+myt_sql: INSERT INTO `signals` (`id` ,`signalgrup` ,`signalid` ,`signal_data` ,`symbol` ,`trend` ,`entry1` ,`entry2` ,`sl` ,`tp1` ,`tp2` ,`tp3`,`tp4`,`tp5`,`tp6`,`tp7`,`tp8`,`tp9`,`tp10`,`tarih`) VALUES (NULL , '311' , '312' , 'MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdCQ0hVU0RUJywgJ3RyZW5kJzogJ0xPTkcnLCAnZW50cnkxJzogMzAxLjk5LCAnZW50cnkyJzogMzAyLjIzLCAndHAxJzogMzAyLjIzLCAndHAyJzogMzAyLjQ3LCAndHAzJzogMzAyLjcxLCAndHA0JzogMzAyLjk2LCAndHA1JzogMzAzLjIsICd0cDYnOiAzMDMuNDQsICd0cDcnOiAzMDMuNjgsICd0cDgnOiAzMDMuOTIsICd0cDknOiAzMDQuMTYsICd0cDEwJzogMzA0LjQxLCAnc2wnOiAyOTUuOTV9' , 'BCHUSDT', 'LONG', '301.99', '302.23', '295.95', '302.23', '302.47', '302.71', '302.96', '303.2', '303.44', '303.68', '303.92', '304.16', '304.41', '2023-06-30 08:16:50');
+message deleted  311
+findfont: Font family ['Verdana'] not found. Falling back to DejaVu Sans.
+cmd: OPEN  sgn_tp: 0
+bildirim(channel)  -1001822643215  msg_id: 312  text= 312   2023-06-30 08:16:55.294895
+rowb: (1, 5118957445, 'binance OPEN #20537166700  BCHUSDT LONG price:302.11 sl:295.95 volume:0.020', 0)
+bildirim(user)  5118957445  msg_id: 0  text= binance OPEN #20537166700  BCHUSDT LONG price:302.11 sl:295.95 volume:0.020   2023-06-30 08:16:57.807972
+cmd: TP1  sgn_tp: 1
+bildirim(channel)  -1001822643215  msg_id: 312  text= 312   2023-06-30 08:17:12.255013
+cmd: TP2  sgn_tp: 2
+save_name: screenshots/BCHUSDT_1822643215_312_3.png
+-----  start: 2023-06-30 08:16:55  db1: 1  stop: 2023-06-30 08:17:13  db2: 0  tf: 1m  fark: 1
+start: 2023-06-30 08:16:55   1m   60   1688112715
+get history start: 2023-06-30T08:12:00.000000000  stop: 2023-06-30T08:17:00.000000000  db1: 1  db2: 0  dbf: 40   1m
+start_index: 4  stop_index: 5
+2 - start_index: 4  stop_index: 7
+d1: 2023-06-30 08:16:00  p1: 301.99  d2: 2023-06-30 08:19:00  p2: 302.47
+ucretsiz_id: 0
+bildirim(channel)  -1001822643215  msg_id: 312  text= 312   2023-06-30 08:17:16.484694
+rowb: (2, 5118957445, 'binance #20537188861 UPDATE TRAILSTOP 1 BCHUSDT yeni_hedef:302.47 yeni_sl:302.11', 0)
+bildirim(user)  5118957445  msg_id: 0  text= binance #20537188861 UPDATE TRAILSTOP 1 BCHUSDT yeni_hedef:302.47 yeni_sl:302.11   2023-06-30 08:17:16.987758
+cmd: TP3  sgn_tp: 3
+save_name: screenshots/BCHUSDT_1822643215_312_4.png
+-----  start: 2023-06-30 08:16:55  db1: 1  stop: 2023-06-30 08:17:25  db2: 0  tf: 1m  fark: 1
+start: 2023-06-30 08:16:55   1m   60   1688112715
+get history start: 2023-06-30T08:12:00.000000000  stop: 2023-06-30T08:17:00.000000000  db1: 1  db2: 0  dbf: 40   1m
+start_index: 4  stop_index: 5
+2 - start_index: 4  stop_index: 7
+d1: 2023-06-30 08:16:00  p1: 301.99  d2: 2023-06-30 08:19:00  p2: 302.76
+ucretsiz_id: 0
+bildirim(channel)  -1001822643215  msg_id: 312  text= 312   2023-06-30 08:17:28.283309
+rowb: (3, 5118957445, 'binance #20537200330 UPDATE TRAILSTOP 2 BCHUSDT yeni_hedef:302.71 yeni_sl:302.23', 0)
+bildirim(user)  5118957445  msg_id: 0  text= binance #20537200330 UPDATE TRAILSTOP 2 BCHUSDT yeni_hedef:302.71 yeni_sl:302.23   2023-06-30 08:17:28.787328
+---------------------------------------------------------------------
+read_group_msg() mid= 317 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1688113051  msg: LONG
+Binance Futures - binance
+Pair: JASMYUSDT
+Bid: 0.004346 Ask:0.004347
+Entry: 0.004350 - 0.004347
+Targets : 0.004350 - 0.004354 - 0.004357 - 0.004361 - 0.004364 - 0.004368 - 0.004371 - 0.004375 - 0.004378 - 0.004382
+Stop Loss: 0.004260
+Leverage Cross 50x
+w: long
+w: binance futures - binance
+w: pair: jasmyusdt
+w: bid: 0.004346 ask:0.004347
+w: entry: 0.004350 - 0.004347
+w: targets : 0.004350 - 0.004354 - 0.004357 - 0.004361 - 0.004364 - 0.004368 - 0.004371 - 0.004375 - 0.004378 - 0.004382
+w: stop loss: 0.004260
+w: leverage cross 50x
+signal: {'symbol': 'JASMYUSDT', 'trend': 'LONG', 'entry1': 0.004347, 'entry2': 0.00435, 'tp1': 0.00435, 'tp2': 0.004354, 'tp3': 0.004357, 'tp4': 0.004361, 'tp5': 0.004364, 'tp6': 0.004368, 'tp7': 0.004371, 'tp8': 0.004375, 'tp9': 0.004378, 'tp10': 0.004382, 'sl': 0.00426}
+read_signal signal_ayikla: {'symbol': 'JASMYUSDT', 'trend': 'LONG', 'entry1': 0.004347, 'entry2': 0.00435, 'tp1': 0.00435, 'tp2': 0.004354, 'tp3': 0.004357, 'tp4': 0.004361, 'tp5': 0.004364, 'tp6': 0.004368, 'tp7': 0.004371, 'tp8': 0.004375, 'tp9': 0.004378, 'tp10': 0.004382, 'sl': 0.00426}
+signal_hash: MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdKQVNNWVVTRFQnLCAndHJlbmQnOiAnTE9ORycsICdlbnRyeTEnOiAwLjAwNDM0NywgJ2VudHJ5Mic6IDAuMDA0MzUsICd0cDEnOiAwLjAwNDM1LCAndHAyJzogMC4wMDQzNTQsICd0cDMnOiAwLjAwNDM1NywgJ3RwNCc6IDAuMDA0MzYxLCAndHA1JzogMC4wMDQzNjQsICd0cDYnOiAwLjAwNDM2OCwgJ3RwNyc6IDAuMDA0MzcxLCAndHA4JzogMC4wMDQzNzUsICd0cDknOiAwLjAwNDM3OCwgJ3RwMTAnOiAwLjAwNDM4MiwgJ3NsJzogMC4wMDQyNn0=
+signal_new_id: 318
+myt_sql: INSERT INTO `signals` (`id` ,`signalgrup` ,`signalid` ,`signal_data` ,`symbol` ,`trend` ,`entry1` ,`entry2` ,`sl` ,`tp1` ,`tp2` ,`tp3`,`tp4`,`tp5`,`tp6`,`tp7`,`tp8`,`tp9`,`tp10`,`tarih`) VALUES (NULL , '317' , '318' , 'MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdKQVNNWVVTRFQnLCAndHJlbmQnOiAnTE9ORycsICdlbnRyeTEnOiAwLjAwNDM0NywgJ2VudHJ5Mic6IDAuMDA0MzUsICd0cDEnOiAwLjAwNDM1LCAndHAyJzogMC4wMDQzNTQsICd0cDMnOiAwLjAwNDM1NywgJ3RwNCc6IDAuMDA0MzYxLCAndHA1JzogMC4wMDQzNjQsICd0cDYnOiAwLjAwNDM2OCwgJ3RwNyc6IDAuMDA0MzcxLCAndHA4JzogMC4wMDQzNzUsICd0cDknOiAwLjAwNDM3OCwgJ3RwMTAnOiAwLjAwNDM4MiwgJ3NsJzogMC4wMDQyNn0=' , 'JASMYUSDT', 'LONG', '0.004347', '0.00435', '0.00426', '0.00435', '0.004354', '0.004357', '0.004361', '0.004364', '0.004368', '0.004371', '0.004375', '0.004378', '0.004382', '2023-06-30 08:17:31');
+message deleted  317
+cmd: TP6  sgn_tp: 6
+save_name: screenshots/BCHUSDT_1822643215_312_5.png
+-----  start: 2023-06-30 08:16:55  db1: 1  stop: 2023-06-30 08:17:38  db2: 0  tf: 1m  fark: 1
+start: 2023-06-30 08:16:55   1m   60   1688112715
+get history start: 2023-06-30T08:12:00.000000000  stop: 2023-06-30T08:17:00.000000000  db1: 1  db2: 0  dbf: 40   1m
+start_index: 4  stop_index: 5
+2 - start_index: 4  stop_index: 7
+d1: 2023-06-30 08:16:00  p1: 301.99  d2: 2023-06-30 08:19:00  p2: 303.47
+ucretsiz_id: 0
+bildirim(channel)  -1001822643215  msg_id: 312  text= 312   2023-06-30 08:17:41.915375
+rowb: (4, 5118957445, 'binance #20537166700 CLOSED TRAILSTOP 3 BCHUSDT open:302.11 close:302.23 profit:0.0023832378934827', 0)
+bildirim(user)  5118957445  msg_id: 0  text= binance #20537166700 CLOSED TRAILSTOP 3 BCHUSDT open:302.11 close:302.23 profit:0.0023832378934827   2023-06-30 08:17:42.420390
+cmd: TP7  sgn_tp: 7
+save_name: screenshots/BCHUSDT_1822643215_312_6.png
+-----  start: 2023-06-30 08:16:55  db1: 1  stop: 2023-06-30 08:17:52  db2: 0  tf: 1m  fark: 1
+start: 2023-06-30 08:16:55   1m   60   1688112715
+get history start: 2023-06-30T08:12:00.000000000  stop: 2023-06-30T08:17:00.000000000  db1: 1  db2: 0  dbf: 40   1m
+start_index: 4  stop_index: 5
+2 - start_index: 4  stop_index: 7
+d1: 2023-06-30 08:16:00  p1: 301.99  d2: 2023-06-30 08:19:00  p2: 303.77
+ucretsiz_id: 0
+bildirim(channel)  -1001822643215  msg_id: 312  text= 312   2023-06-30 08:17:55.052834
+cmd: TP8  sgn_tp: 8
+save_name: screenshots/BCHUSDT_1822643215_312_7.png
+-----  start: 2023-06-30 08:16:55  db1: 1  stop: 2023-06-30 08:17:56  db2: 0  tf: 1m  fark: 1
+start: 2023-06-30 08:16:55   1m   60   1688112715
+get history start: 2023-06-30T08:12:00.000000000  stop: 2023-06-30T08:17:00.000000000  db1: 1  db2: 0  dbf: 40   1m
+start_index: 4  stop_index: 5
+2 - start_index: 4  stop_index: 7
+d1: 2023-06-30 08:16:00  p1: 301.99  d2: 2023-06-30 08:19:00  p2: 304.03
+---------------------------------------------------------------------
+read_group_msg() mid= 321 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1688113079  msg: LONG
+Binance Futures - binance
+Pair: BNBUSDT
+Bid: 238.96 Ask:238.97
+Entry: 239.16 - 238.97
+Targets : 239.16 - 239.35 - 239.54 - 239.73 - 239.93 - 240.12 - 240.31 - 240.50 - 240.69 - 240.88
+Stop Loss: 234.19
+Leverage Cross 50x
+w: long
+w: binance futures - binance
+w: pair: bnbusdt
+w: bid: 238.96 ask:238.97
+w: entry: 239.16 - 238.97
+w: targets : 239.16 - 239.35 - 239.54 - 239.73 - 239.93 - 240.12 - 240.31 - 240.50 - 240.69 - 240.88
+w: stop loss: 234.19
+w: leverage cross 50x
+signal: {'symbol': 'BNBUSDT', 'trend': 'LONG', 'entry1': 238.97, 'entry2': 239.16, 'tp1': 239.16, 'tp2': 239.35, 'tp3': 239.54, 'tp4': 239.73, 'tp5': 239.93, 'tp6': 240.12, 'tp7': 240.31, 'tp8': 240.5, 'tp9': 240.69, 'tp10': 240.88, 'sl': 234.19}
+read_signal signal_ayikla: {'symbol': 'BNBUSDT', 'trend': 'LONG', 'entry1': 238.97, 'entry2': 239.16, 'tp1': 239.16, 'tp2': 239.35, 'tp3': 239.54, 'tp4': 239.73, 'tp5': 239.93, 'tp6': 240.12, 'tp7': 240.31, 'tp8': 240.5, 'tp9': 240.69, 'tp10': 240.88, 'sl': 234.19}
+signal_hash: MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdCTkJVU0RUJywgJ3RyZW5kJzogJ0xPTkcnLCAnZW50cnkxJzogMjM4Ljk3LCAnZW50cnkyJzogMjM5LjE2LCAndHAxJzogMjM5LjE2LCAndHAyJzogMjM5LjM1LCAndHAzJzogMjM5LjU0LCAndHA0JzogMjM5LjczLCAndHA1JzogMjM5LjkzLCAndHA2JzogMjQwLjEyLCAndHA3JzogMjQwLjMxLCAndHA4JzogMjQwLjUsICd0cDknOiAyNDAuNjksICd0cDEwJzogMjQwLjg4LCAnc2wnOiAyMzQuMTl9
+signal_new_id: 322
+myt_sql: INSERT INTO `signals` (`id` ,`signalgrup` ,`signalid` ,`signal_data` ,`symbol` ,`trend` ,`entry1` ,`entry2` ,`sl` ,`tp1` ,`tp2` ,`tp3`,`tp4`,`tp5`,`tp6`,`tp7`,`tp8`,`tp9`,`tp10`,`tarih`) VALUES (NULL , '321' , '322' , 'MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdCTkJVU0RUJywgJ3RyZW5kJzogJ0xPTkcnLCAnZW50cnkxJzogMjM4Ljk3LCAnZW50cnkyJzogMjM5LjE2LCAndHAxJzogMjM5LjE2LCAndHAyJzogMjM5LjM1LCAndHAzJzogMjM5LjU0LCAndHA0JzogMjM5LjczLCAndHA1JzogMjM5LjkzLCAndHA2JzogMjQwLjEyLCAndHA3JzogMjQwLjMxLCAndHA4JzogMjQwLjUsICd0cDknOiAyNDAuNjksICd0cDEwJzogMjQwLjg4LCAnc2wnOiAyMzQuMTl9' , 'BNBUSDT', 'LONG', '238.97', '239.16', '234.19', '239.16', '239.35', '239.54', '239.73', '239.93', '240.12', '240.31', '240.5', '240.69', '240.88', '2023-06-30 08:17:59');
+message deleted  321
+ucretsiz_id: 0
+bildirim(channel)  -1001822643215  msg_id: 312  text= 312   2023-06-30 08:18:01.186263
+cmd: TP9  sgn_tp: 9
+save_name: screenshots/BCHUSDT_1822643215_312_8.png
+-----  start: 2023-06-30 08:16:55  db1: 2  stop: 2023-06-30 08:17:58  db2: 1  tf: 1m  fark: 1
+start: 2023-06-30 08:16:55   1m   60   1688112715
+get history start: 2023-06-30T08:12:00.000000000  stop: 2023-06-30T08:18:00.000000000  db1: 2  db2: 1  dbf: 40   1m
+start_index: 4  stop_index: 5
+2 - start_index: 4  stop_index: 7
+d1: 2023-06-30 08:16:00  p1: 301.99  d2: 2023-06-30 08:19:00  p2: 304.25
+ucretsiz_id: 0
+bildirim(channel)  -1001822643215  msg_id: 312  text= 312   2023-06-30 08:18:05.447686
+cmd: TP10  sgn_tp: 10
+save_name: screenshots/BCHUSDT_1822643215_312_9.png
+-----  start: 2023-06-30 08:16:55  db1: 2  stop: 2023-06-30 08:17:59  db2: 1  tf: 1m  fark: 1
+start: 2023-06-30 08:16:55   1m   60   1688112715
+get history start: 2023-06-30T08:12:00.000000000  stop: 2023-06-30T08:18:00.000000000  db1: 2  db2: 1  dbf: 40   1m
+start_index: 4  stop_index: 5
+2 - start_index: 4  stop_index: 7
+d1: 2023-06-30 08:16:00  p1: 301.99  d2: 2023-06-30 08:19:00  p2: 305.21
+ucretsiz_id: 0
+bildirim(channel)  -1001822643215  msg_id: 312  text= 312   2023-06-30 08:18:08.354461
+cmd: OPEN  sgn_tp: 0
+bildirim(channel)  -1001822643215  msg_id: 322  text= 322   2023-06-30 08:18:09.367349
+rowb: (5, 5118957445, 'binance OPEN #47607478021  BNBUSDT LONG price:238.97 sl:234.190 volume:0.03', 0)
+bildirim(user)  5118957445  msg_id: 0  text= binance OPEN #47607478021  BNBUSDT LONG price:238.97 sl:234.190 volume:0.03   2023-06-30 08:18:10.877364
+cmd: TP1  sgn_tp: 1
+bildirim(channel)  -1001822643215  msg_id: 322  text= 322   2023-06-30 08:21:21.122734
+cmd: TP2  sgn_tp: 2
+save_name: screenshots/BNBUSDT_1822643215_322_12.png
+-----  start: 2023-06-30 08:18:05  db1: 7  stop: 2023-06-30 08:25:43  db2: 0  tf: 1m  fark: 7
+start: 2023-06-30 08:18:05   1m   60   1688112785
+get history start: 2023-06-30T08:14:00.000000000  stop: 2023-06-30T08:25:00.000000000  db1: 7  db2: 0  dbf: 40   1m
+start_index: 4  stop_index: 11
+2 - start_index: 4  stop_index: 11
+d1: 2023-06-30 08:18:00  p1: 238.97  d2: 2023-06-30 08:25:00  p2: 239.35
+ucretsiz_id: 0
+bildirim(channel)  -1001822643215  msg_id: 322  text= 322   2023-06-30 08:25:46.681837
+rowb: (6, 5118957445, 'binance #47607628464 UPDATE TRAILSTOP 1 BNBUSDT yeni_hedef:239.35 yeni_sl:238.970', 0)
+bildirim(user)  5118957445  msg_id: 0  text= binance #47607628464 UPDATE TRAILSTOP 1 BNBUSDT yeni_hedef:239.35 yeni_sl:238.970   2023-06-30 08:25:58.240354
+cmd: OPEN  sgn_tp: 0
+bildirim(channel)  -1001822643215  msg_id: 318  text= 318   2023-06-30 08:28:25.001570
+rowb: (7, 5118957445, 'binance OPEN #1930666483  JASMYUSDT LONG price:0.00435 sl:0.004260 volume:1379', 0)
+bildirim(user)  5118957445  msg_id: 0  text= binance OPEN #1930666483  JASMYUSDT LONG price:0.00435 sl:0.004260 volume:1379   2023-06-30 08:28:28.521670
+cmd: TP1  sgn_tp: 1
+bildirim(channel)  -1001822643215  msg_id: 318  text= 318   2023-06-30 08:28:37.648202
+cmd: TP2  sgn_tp: 2
+save_name: screenshots/JASMYUSDT_1822643215_318_15.png
+-----  start: 2023-06-30 08:28:24  db1: 1  stop: 2023-06-30 08:29:47  db2: 0  tf: 1m  fark: 1
+start: 2023-06-30 08:28:24   1m   60   1688113404
+get history start: 2023-06-30T08:24:00.000000000  stop: 2023-06-30T08:29:00.000000000  db1: 1  db2: 0  dbf: 40   1m
+start_index: 4  stop_index: 5
+2 - start_index: 4  stop_index: 7
+d1: 2023-06-30 08:28:00  p1: 0.00435  d2: 2023-06-30 08:31:00  p2: 0.004354
+ucretsiz_id: 0
+bildirim(channel)  -1001822643215  msg_id: 318  text= 318   2023-06-30 08:29:51.780907
+rowb: (8, 5118957445, 'binance #1930671661 UPDATE TRAILSTOP 1 JASMYUSDT yeni_hedef:0.004354 yeni_sl:0.004350', 0)
+bildirim(user)  5118957445  msg_id: 0  text= binance #1930671661 UPDATE TRAILSTOP 1 JASMYUSDT yeni_hedef:0.004354 yeni_sl:0.004350   2023-06-30 08:30:21.464179
+rowb: (9, 5118957445, 'binance N-CLOSED JASMYUSDT LONG open:0.00435 close:0.00435 lot:1379 profit:0', 0)
+bildirim(user)  5118957445  msg_id: 0  text= binance N-CLOSED JASMYUSDT LONG open:0.00435 close:0.00435 lot:1379 profit:0   2023-06-30 08:31:25.341862
+rowb: (10, 5118957445, 'binance N-CLOSED BNBUSDT LONG open:238.97 close:238.97 lot:0.03 profit:0', 0)
+bildirim(user)  5118957445  msg_id: 0  text= binance N-CLOSED BNBUSDT LONG open:238.97 close:238.97 lot:0.03 profit:0   2023-06-30 08:32:32.185847
+cmd: TP3  sgn_tp: 3
+save_name: screenshots/JASMYUSDT_1822643215_318_16.png
+-----  start: 2023-06-30 08:28:24  db1: 11  stop: 2023-06-30 08:39:39  db2: 0  tf: 1m  fark: 11
+start: 2023-06-30 08:28:24   1m   60   1688113404
+get history start: 2023-06-30T08:24:00.000000000  stop: 2023-06-30T08:39:00.000000000  db1: 11  db2: 0  dbf: 40   1m
+start_index: 4  stop_index: 15
+2 - start_index: 4  stop_index: 15
+d1: 2023-06-30 08:28:00  p1: 0.00435  d2: 2023-06-30 08:39:00  p2: 0.004357
+ucretsiz_id: 0
+bildirim(channel)  -1001822643215  msg_id: 318  text= 318   2023-06-30 08:39:42.296424
+cmd: TP3  sgn_tp: 3
+save_name: screenshots/BNBUSDT_1822643215_322_17.png
+-----  start: 2023-06-30 08:18:05  db1: 24  stop: 2023-06-30 08:42:40  db2: 0  tf: 1m  fark: 24
+start: 2023-06-30 08:18:05   1m   60   1688112785
+get history start: 2023-06-30T08:14:00.000000000  stop: 2023-06-30T08:42:00.000000000  db1: 24  db2: 0  dbf: 40   1m
+start_index: 4  stop_index: 28
+2 - start_index: 4  stop_index: 28
+d1: 2023-06-30 08:18:00  p1: 238.97  d2: 2023-06-30 08:42:00  p2: 239.54
+ucretsiz_id: 0
+bildirim(channel)  -1001822643215  msg_id: 322  text= 322   2023-06-30 08:42:44.175692
+cmd: TP4  sgn_tp: 4
+save_name: screenshots/JASMYUSDT_1822643215_318_18.png
+-----  start: 2023-06-30 08:28:24  db1: 16  stop: 2023-06-30 08:44:34  db2: 0  tf: 1m  fark: 16
+start: 2023-06-30 08:28:24   1m   60   1688113404
+get history start: 2023-06-30T08:24:00.000000000  stop: 2023-06-30T08:44:00.000000000  db1: 16  db2: 0  dbf: 40   1m
+start_index: 4  stop_index: 20
+2 - start_index: 4  stop_index: 20
+d1: 2023-06-30 08:28:00  p1: 0.00435  d2: 2023-06-30 08:44:00  p2: 0.004361
+ucretsiz_id: 0
+bildirim(channel)  -1001822643215  msg_id: 318  text= 318   2023-06-30 08:44:38.237043
+---------------------------------------------------------------------
+read_group_msg() mid= 336 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1688114966  msg: 
+w: 
+signal: {'symbol': '', 'trend': '', 'entry1': 0, 'entry2': 0, 'tp1': 0, 'tp2': 0, 'tp3': 0, 'tp4': 0, 'tp5': 0, 'tp6': 0, 'tp7': 0, 'tp8': 0, 'tp9': 0, 'tp10': 0, 'sl': 0}
+request.send :  http://206.81.25.202/coinbey/sinyal_ayikla.php  ->  {'trend': '', 'symbol': '', 'entry1': 0, 'entry2': 0, 'tp1': 0, 'tp2': 0, 'tp3': 0, 'tp4': 0, 'tp5': 0, 'sl': 0}
+read_signal signal_ayikla: {'trend': '', 'symbol': '', 'entry1': 0.0, 'entry2': 0.0, 'tp1': 0.0, 'tp2': 0.0, 'tp3': 0.0, 'tp4': 0.0, 'tp5': 0.0, 'sl': 0.0}
+signal_hash: MTgyMjY0MzIxNV97J3RyZW5kJzogJycsICdzeW1ib2wnOiAnJywgJ2VudHJ5MSc6IDAuMCwgJ2VudHJ5Mic6IDAuMCwgJ3RwMSc6IDAuMCwgJ3RwMic6IDAuMCwgJ3RwMyc6IDAuMCwgJ3RwNCc6IDAuMCwgJ3RwNSc6IDAuMCwgJ3NsJzogMC4wfQ==
+cmd: TP5  sgn_tp: 5
+save_name: screenshots/JASMYUSDT_1822643215_318_19.png
+-----  start: 2023-06-30 08:28:24  db1: 22  stop: 2023-06-30 08:50:48  db2: 0  tf: 1m  fark: 22
+start: 2023-06-30 08:28:24   1m   60   1688113404
+get history start: 2023-06-30T08:24:00.000000000  stop: 2023-06-30T08:50:00.000000000  db1: 22  db2: 0  dbf: 40   1m
+start_index: 4  stop_index: 26
+2 - start_index: 4  stop_index: 26
+d1: 2023-06-30 08:28:00  p1: 0.00435  d2: 2023-06-30 08:50:00  p2: 0.004364
+ucretsiz_id: 0
+bildirim(channel)  -1001822643215  msg_id: 318  text= 318   2023-06-30 08:50:52.624575
+cmd: TP6  sgn_tp: 6
+save_name: screenshots/JASMYUSDT_1822643215_318_20.png
+-----  start: 2023-06-30 08:28:24  db1: 22  stop: 2023-06-30 08:50:56  db2: 0  tf: 1m  fark: 22
+start: 2023-06-30 08:28:24   1m   60   1688113404
+get history start: 2023-06-30T08:24:00.000000000  stop: 2023-06-30T08:50:00.000000000  db1: 22  db2: 0  dbf: 40   1m
+start_index: 4  stop_index: 26
+2 - start_index: 4  stop_index: 26
+d1: 2023-06-30 08:28:00  p1: 0.00435  d2: 2023-06-30 08:50:00  p2: 0.004369
+ucretsiz_id: 0
+bildirim(channel)  -1001822643215  msg_id: 318  text= 318   2023-06-30 08:51:00.426251
+---------------------------------------------------------------------
+read_group_msg() mid= 339 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1688115140  msg: olm bu uyumadgm 3. gnm tam yatcaktm anasn siktigimin botu hata verdi dediler ona bakmak zorunda kaldm. bot yakam brakmyor braktg gibi yapcam.
+w: olm bu uyumadgm 3. gnm tam yatcaktm anasn siktigimin botu hata verdi dediler ona bakmak zorunda kaldm. bot yakam brakmyor braktg gibi yapcam.
+signal: {'symbol': '', 'trend': '', 'entry1': 0, 'entry2': 0, 'tp1': 0, 'tp2': 0, 'tp3': 0, 'tp4': 0, 'tp5': 0, 'tp6': 0, 'tp7': 0, 'tp8': 0, 'tp9': 0, 'tp10': 0, 'sl': 0}
+request.send :  http://206.81.25.202/coinbey/sinyal_ayikla.php  ->  {'trend': '', 'symbol': '', 'entry1': 0, 'entry2': 0, 'tp1': 0, 'tp2': 0, 'tp3': 0, 'tp4': 0, 'tp5': 0, 'sl': 0}
+read_signal signal_ayikla: {'trend': '', 'symbol': '', 'entry1': 0.0, 'entry2': 0.0, 'tp1': 0.0, 'tp2': 0.0, 'tp3': 0.0, 'tp4': 0.0, 'tp5': 0.0, 'sl': 0.0}
+signal_hash: MTgyMjY0MzIxNV97J3RyZW5kJzogJycsICdzeW1ib2wnOiAnJywgJ2VudHJ5MSc6IDAuMCwgJ2VudHJ5Mic6IDAuMCwgJ3RwMSc6IDAuMCwgJ3RwMic6IDAuMCwgJ3RwMyc6IDAuMCwgJ3RwNCc6IDAuMCwgJ3RwNSc6IDAuMCwgJ3NsJzogMC4wfQ==
+hknvip3 VIP  Server started
+bot baslangic tarihi= 1688392764.601601
+telegram_pool basladı
+channel_updates basladi
+---------------------------------------------------------------------
+read_group_msg() mid= 350 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1688392787  msg:  LONG
+ OPUSDT
+ Entry : 1.3325  - 1.3445
+ Target 1 - 1.3539
+ Target 2 - 1.3673
+ Target 3 - 1.3807
+ Target 4 - 1.3942
+ Target 5 - 1.4075
+ Stop Loss : 1.2734
+ Leverage: CROSS 5x-20X aras
+w:  long
+w:  opusdt
+w:  entry : 1.3325  - 1.3445
+w:  target 1 - 1.3539
+w:  target 2 - 1.3673
+w:  target 3 - 1.3807
+w:  target 4 - 1.3942
+w:  target 5 - 1.4075
+w:  stop loss : 1.2734
+w:  leverage: cross 5x-20x aras
+signal: {'symbol': 'OPUSDT', 'trend': 'LONG', 'entry1': 1.3325, 'entry2': 1.3445, 'tp1': 1.3539, 'tp2': 1.3673, 'tp3': 1.3807, 'tp4': 1.3942, 'tp5': 1.4075, 'tp6': 0, 'tp7': 0, 'tp8': 0, 'tp9': 0, 'tp10': 0, 'sl': 1.2734}
+read_signal signal_ayikla: {'symbol': 'OPUSDT', 'trend': 'LONG', 'entry1': 1.3325, 'entry2': 1.3445, 'tp1': 1.3539, 'tp2': 1.3673, 'tp3': 1.3807, 'tp4': 1.3942, 'tp5': 1.4075, 'tp6': 0, 'tp7': 0, 'tp8': 0, 'tp9': 0, 'tp10': 0, 'sl': 1.2734}
+signal_hash: MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdPUFVTRFQnLCAndHJlbmQnOiAnTE9ORycsICdlbnRyeTEnOiAxLjMzMjUsICdlbnRyeTInOiAxLjM0NDUsICd0cDEnOiAxLjM1MzksICd0cDInOiAxLjM2NzMsICd0cDMnOiAxLjM4MDcsICd0cDQnOiAxLjM5NDIsICd0cDUnOiAxLjQwNzUsICd0cDYnOiAwLCAndHA3JzogMCwgJ3RwOCc6IDAsICd0cDknOiAwLCAndHAxMCc6IDAsICdzbCc6IDEuMjczNH0=
+signal_new_id: 351
+myt_sql: INSERT INTO `signals` (`id` ,`signalgrup` ,`signalid` ,`signal_data` ,`symbol` ,`trend` ,`entry1` ,`entry2` ,`sl` ,`tp1` ,`tp2` ,`tp3`,`tp4`,`tp5`,`tp6`,`tp7`,`tp8`,`tp9`,`tp10`,`tarih`) VALUES (NULL , '350' , '351' , 'MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdPUFVTRFQnLCAndHJlbmQnOiAnTE9ORycsICdlbnRyeTEnOiAxLjMzMjUsICdlbnRyeTInOiAxLjM0NDUsICd0cDEnOiAxLjM1MzksICd0cDInOiAxLjM2NzMsICd0cDMnOiAxLjM4MDcsICd0cDQnOiAxLjM5NDIsICd0cDUnOiAxLjQwNzUsICd0cDYnOiAwLCAndHA3JzogMCwgJ3RwOCc6IDAsICd0cDknOiAwLCAndHAxMCc6IDAsICdzbCc6IDEuMjczNH0=' , 'OPUSDT', 'LONG', '1.3325', '1.3445', '1.2734', '1.3539', '1.3673', '1.3807', '1.3942', '1.4075', '0', '0', '0', '0', '0', '2023-07-03 13:59:47');
+message deleted  350
+cmd: OPEN  sgn_tp: 0
+bildirim(channel)  -1001822643215  msg_id: 351  text= 351   2023-07-03 13:59:49.743555
+rowb: (1, 5118957445, 'binance Emir açılamadı. OPEN OPUSDT LONG ERROR price:1.3347 code:-2019 msg:Hesap bakiyeniz bu işlemi açabilmek için yetersiz.', 0)
+bildirim(user)  5118957445  msg_id: 0  text= binance Emir açılamadı. OPEN OPUSDT LONG ERROR price:1.3347 code:-2019 msg:Hesap bakiyeniz bu işlemi açabilmek için yetersiz.   2023-07-03 13:59:53.259364
+---------------------------------------------------------------------
+read_group_msg() mid= 353 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1688392910  msg:  LONG
+ OPUSDT
+ Entry : 1.3325 - 1.3445
+ Target 1 - 1.3539
+ Target 2 - 1.3673
+ Target 3 - 1.3807
+ Target 4 - 1.3942
+ Target 5 - 1.4075
+ Stop Loss : 1.2734
+ Leverage: CROSS 5x-20X aras
+w:  long
+w:  opusdt
+w:  entry : 1.3325 - 1.3445
+w:  target 1 - 1.3539
+w:  target 2 - 1.3673
+w:  target 3 - 1.3807
+w:  target 4 - 1.3942
+w:  target 5 - 1.4075
+w:  stop loss : 1.2734
+w:  leverage: cross 5x-20x aras
+signal: {'symbol': 'OPUSDT', 'trend': 'LONG', 'entry1': 1.3325, 'entry2': 1.3445, 'tp1': 1.3539, 'tp2': 1.3673, 'tp3': 1.3807, 'tp4': 1.3942, 'tp5': 1.4075, 'tp6': 0, 'tp7': 0, 'tp8': 0, 'tp9': 0, 'tp10': 0, 'sl': 1.2734}
+read_signal signal_ayikla: {'symbol': 'OPUSDT', 'trend': 'LONG', 'entry1': 1.3325, 'entry2': 1.3445, 'tp1': 1.3539, 'tp2': 1.3673, 'tp3': 1.3807, 'tp4': 1.3942, 'tp5': 1.4075, 'tp6': 0, 'tp7': 0, 'tp8': 0, 'tp9': 0, 'tp10': 0, 'sl': 1.2734}
+signal_hash: MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdPUFVTRFQnLCAndHJlbmQnOiAnTE9ORycsICdlbnRyeTEnOiAxLjMzMjUsICdlbnRyeTInOiAxLjM0NDUsICd0cDEnOiAxLjM1MzksICd0cDInOiAxLjM2NzMsICd0cDMnOiAxLjM4MDcsICd0cDQnOiAxLjM5NDIsICd0cDUnOiAxLjQwNzUsICd0cDYnOiAwLCAndHA3JzogMCwgJ3RwOCc6IDAsICd0cDknOiAwLCAndHAxMCc6IDAsICdzbCc6IDEuMjczNH0=
+---------------------------------------------------------------------
+read_group_msg() mid= 354 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1688393954  msg: LONG
+ BTCUSDT
+ Entry : 30,500 - 30,800
+ Target 1 - 31,000
+ Target 2 - 32,000
+ Target 3 - 33,000
+ Target 4 - 34,000
+ Target 5 - 35,000
+ Stop Loss : 30,000
+ Leverage: CROSS 5x-20X aras
+w: long
+w:  btcusdt
+w:  entry : 30,500 - 30,800
+signal reader error: could not convert string to float: '30,500'
+<class 'ValueError'> telegram_bot_hknvip3.py 676
+send_signal_raw(err) :  could not convert string to float: '30,500'
+read_signal signal_ayikla: {'trend': '', 'symbol': '', 'entry1': 0, 'entry2': 0, 'tp1': 0, 'tp2': 0, 'tp3': 0, 'tp4': 0, 'tp5': 0, 'sl': 0}
+signal_hash: MTgyMjY0MzIxNV97J3RyZW5kJzogJycsICdzeW1ib2wnOiAnJywgJ2VudHJ5MSc6IDAsICdlbnRyeTInOiAwLCAndHAxJzogMCwgJ3RwMic6IDAsICd0cDMnOiAwLCAndHA0JzogMCwgJ3RwNSc6IDAsICdzbCc6IDB9
+---------------------------------------------------------------------
+read_group_msg() mid= 355 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1688393985  msg:  LONG
+ BTCUSDT
+ Entry : 30,500 - 30,800
+ Target 1 - 31,000
+ Target 2 - 32,000
+ Target 3 - 33,000
+ Target 4 - 34,000
+ Target 5 - 35,000
+ Stop Loss : 30,000
+ Leverage: CROSS 5x-20X aras
+w:  long
+w:  btcusdt
+w:  entry : 30,500 - 30,800
+signal reader error: could not convert string to float: '30,500'
+<class 'ValueError'> telegram_bot_hknvip3.py 676
+send_signal_raw(err) :  could not convert string to float: '30,500'
+read_signal signal_ayikla: {'trend': '', 'symbol': '', 'entry1': 0, 'entry2': 0, 'tp1': 0, 'tp2': 0, 'tp3': 0, 'tp4': 0, 'tp5': 0, 'sl': 0}
+signal_hash: MTgyMjY0MzIxNV97J3RyZW5kJzogJycsICdzeW1ib2wnOiAnJywgJ2VudHJ5MSc6IDAsICdlbnRyeTInOiAwLCAndHAxJzogMCwgJ3RwMic6IDAsICd0cDMnOiAwLCAndHA0JzogMCwgJ3RwNSc6IDAsICdzbCc6IDB9
+---------------------------------------------------------------------
+read_group_msg() mid= 356 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1688394015  msg:  LONG
+ OPUSDT
+ Entry : 1.3325 - 1.3400
+ Target 1 - 1.3539
+ Target 2 - 1.3673
+ Target 3 - 1.3807
+ Target 4 - 1.3942
+ Target 5 - 1.4075
+ Stop Loss : 1.2734
+ Leverage: CROSS 5x-20X aras
+w:  long
+w:  opusdt
+w:  entry : 1.3325 - 1.3400
+w:  target 1 - 1.3539
+w:  target 2 - 1.3673
+w:  target 3 - 1.3807
+w:  target 4 - 1.3942
+w:  target 5 - 1.4075
+w:  stop loss : 1.2734
+w:  leverage: cross 5x-20x aras
+signal: {'symbol': 'OPUSDT', 'trend': 'LONG', 'entry1': 1.3325, 'entry2': 1.34, 'tp1': 1.3539, 'tp2': 1.3673, 'tp3': 1.3807, 'tp4': 1.3942, 'tp5': 1.4075, 'tp6': 0, 'tp7': 0, 'tp8': 0, 'tp9': 0, 'tp10': 0, 'sl': 1.2734}
+read_signal signal_ayikla: {'symbol': 'OPUSDT', 'trend': 'LONG', 'entry1': 1.3325, 'entry2': 1.34, 'tp1': 1.3539, 'tp2': 1.3673, 'tp3': 1.3807, 'tp4': 1.3942, 'tp5': 1.4075, 'tp6': 0, 'tp7': 0, 'tp8': 0, 'tp9': 0, 'tp10': 0, 'sl': 1.2734}
+signal_hash: MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdPUFVTRFQnLCAndHJlbmQnOiAnTE9ORycsICdlbnRyeTEnOiAxLjMzMjUsICdlbnRyeTInOiAxLjM0LCAndHAxJzogMS4zNTM5LCAndHAyJzogMS4zNjczLCAndHAzJzogMS4zODA3LCAndHA0JzogMS4zOTQyLCAndHA1JzogMS40MDc1LCAndHA2JzogMCwgJ3RwNyc6IDAsICd0cDgnOiAwLCAndHA5JzogMCwgJ3RwMTAnOiAwLCAnc2wnOiAxLjI3MzR9
+signal_new_id: 357
+myt_sql: INSERT INTO `signals` (`id` ,`signalgrup` ,`signalid` ,`signal_data` ,`symbol` ,`trend` ,`entry1` ,`entry2` ,`sl` ,`tp1` ,`tp2` ,`tp3`,`tp4`,`tp5`,`tp6`,`tp7`,`tp8`,`tp9`,`tp10`,`tarih`) VALUES (NULL , '356' , '357' , 'MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdPUFVTRFQnLCAndHJlbmQnOiAnTE9ORycsICdlbnRyeTEnOiAxLjMzMjUsICdlbnRyeTInOiAxLjM0LCAndHAxJzogMS4zNTM5LCAndHAyJzogMS4zNjczLCAndHAzJzogMS4zODA3LCAndHA0JzogMS4zOTQyLCAndHA1JzogMS40MDc1LCAndHA2JzogMCwgJ3RwNyc6IDAsICd0cDgnOiAwLCAndHA5JzogMCwgJ3RwMTAnOiAwLCAnc2wnOiAxLjI3MzR9' , 'OPUSDT', 'LONG', '1.3325', '1.34', '1.2734', '1.3539', '1.3673', '1.3807', '1.3942', '1.4075', '0', '0', '0', '0', '0', '2023-07-03 14:20:15');
+message deleted  356
+---------------------------------------------------------------------
+read_group_msg() mid= 358 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1688394041  msg: Yok abi bunun orcasi alyor bizimki almyor
+w: yok abi bunun orcasi alyor bizimki almyor
+signal: {'symbol': '', 'trend': '', 'entry1': 0, 'entry2': 0, 'tp1': 0, 'tp2': 0, 'tp3': 0, 'tp4': 0, 'tp5': 0, 'tp6': 0, 'tp7': 0, 'tp8': 0, 'tp9': 0, 'tp10': 0, 'sl': 0}
+request.send :  http://206.81.25.202/coinbey/sinyal_ayikla.php  ->  {'trend': '', 'symbol': '', 'entry1': 0, 'entry2': 0, 'tp1': 0, 'tp2': 0, 'tp3': 0, 'tp4': 0, 'tp5': 0, 'sl': 0}
+read_signal signal_ayikla: {'trend': '', 'symbol': '', 'entry1': 0.0, 'entry2': 0.0, 'tp1': 0.0, 'tp2': 0.0, 'tp3': 0.0, 'tp4': 0.0, 'tp5': 0.0, 'sl': 0.0}
+signal_hash: MTgyMjY0MzIxNV97J3RyZW5kJzogJycsICdzeW1ib2wnOiAnJywgJ2VudHJ5MSc6IDAuMCwgJ2VudHJ5Mic6IDAuMCwgJ3RwMSc6IDAuMCwgJ3RwMic6IDAuMCwgJ3RwMyc6IDAuMCwgJ3RwNCc6IDAuMCwgJ3RwNSc6IDAuMCwgJ3NsJzogMC4wfQ==
+---------------------------------------------------------------------
+read_group_msg() mid= 359 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1688394050  msg: zemedim valla
+w: zemedim valla
+signal: {'symbol': '', 'trend': '', 'entry1': 0, 'entry2': 0, 'tp1': 0, 'tp2': 0, 'tp3': 0, 'tp4': 0, 'tp5': 0, 'tp6': 0, 'tp7': 0, 'tp8': 0, 'tp9': 0, 'tp10': 0, 'sl': 0}
+request.send :  http://206.81.25.202/coinbey/sinyal_ayikla.php  ->  {'trend': '', 'symbol': '', 'entry1': 0, 'entry2': 0, 'tp1': 0, 'tp2': 0, 'tp3': 0, 'tp4': 0, 'tp5': 0, 'sl': 0}
+read_signal signal_ayikla: {'trend': '', 'symbol': '', 'entry1': 0.0, 'entry2': 0.0, 'tp1': 0.0, 'tp2': 0.0, 'tp3': 0.0, 'tp4': 0.0, 'tp5': 0.0, 'sl': 0.0}
+signal_hash: MTgyMjY0MzIxNV97J3RyZW5kJzogJycsICdzeW1ib2wnOiAnJywgJ2VudHJ5MSc6IDAuMCwgJ2VudHJ5Mic6IDAuMCwgJ3RwMSc6IDAuMCwgJ3RwMic6IDAuMCwgJ3RwMyc6IDAuMCwgJ3RwNCc6IDAuMCwgJ3RwNSc6IDAuMCwgJ3NsJzogMC4wfQ==
+cmd: TP1  sgn_tp: 1
+bildirim(channel)  -1001822643215  msg_id: 351  text= 351   2023-07-03 14:54:19.334276
+---------------------------------------------------------------------
+read_group_msg() mid= 361 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1688396296  msg: ldrmamak elde deil sansa bak ya
+w: ldrmamak elde deil sansa bak ya
+signal: {'symbol': '', 'trend': '', 'entry1': 0, 'entry2': 0, 'tp1': 0, 'tp2': 0, 'tp3': 0, 'tp4': 0, 'tp5': 0, 'tp6': 0, 'tp7': 0, 'tp8': 0, 'tp9': 0, 'tp10': 0, 'sl': 0}
+request.send :  http://206.81.25.202/coinbey/sinyal_ayikla.php  ->  {'trend': '', 'symbol': '', 'entry1': 0, 'entry2': 0, 'tp1': 0, 'tp2': 0, 'tp3': 0, 'tp4': 0, 'tp5': 0, 'sl': 0}
+read_signal signal_ayikla: {'trend': '', 'symbol': '', 'entry1': 0.0, 'entry2': 0.0, 'tp1': 0.0, 'tp2': 0.0, 'tp3': 0.0, 'tp4': 0.0, 'tp5': 0.0, 'sl': 0.0}
+signal_hash: MTgyMjY0MzIxNV97J3RyZW5kJzogJycsICdzeW1ib2wnOiAnJywgJ2VudHJ5MSc6IDAuMCwgJ2VudHJ5Mic6IDAuMCwgJ3RwMSc6IDAuMCwgJ3RwMic6IDAuMCwgJ3RwMyc6IDAuMCwgJ3RwNCc6IDAuMCwgJ3RwNSc6IDAuMCwgJ3NsJzogMC4wfQ==
+findfont: Font family ['Verdana'] not found. Falling back to DejaVu Sans.
+cmd: TP2  sgn_tp: 2
+save_name: screenshots/OPUSDT_1822643215_351_3.png
+-----  start: 2023-07-03 13:59:49  db1: 65  stop: 2023-07-03 15:04:49  db2: 0  tf: 1m  fark: 65
+start: 2023-07-03 13:59:49   1m   60   1688392489
+get history start: 2023-07-03T13:55:00.000000000  stop: 2023-07-03T15:04:00.000000000  db1: 65  db2: 0  dbf: 75   1m
+start_index: 4  stop_index: 69
+2 - start_index: 4  stop_index: 69
+d1: 2023-07-03 13:59:00  p1: 1.3345  d2: 2023-07-03 15:04:00  p2: 1.3691
+ucretsiz_id: 0
+bildirim(channel)  -1001822643215  msg_id: 351  text= 351   2023-07-03 15:04:54.632261
+cmd: OPEN  sgn_tp: 0
+bildirim(channel)  -1001822643215  msg_id: 357  text= 357   2023-07-03 16:35:49.692152
+rowb: (2, 5118957445, 'binance Emir açılamadı. OPEN OPUSDT LONG ERROR price:1.339 code:-2019 msg:Hesap bakiyeniz bu işlemi açabilmek için yetersiz.', 0)
+bildirim(user)  5118957445  msg_id: 0  text= binance Emir açılamadı. OPEN OPUSDT LONG ERROR price:1.339 code:-2019 msg:Hesap bakiyeniz bu işlemi açabilmek için yetersiz.   2023-07-03 16:35:54.228459
+cmd: TP1  sgn_tp: 1
+bildirim(channel)  -1001822643215  msg_id: 357  text= 357   2023-07-03 23:59:43.521659
+cmd: SL  sgn_tp: 1.2733
+bildirim(channel)  -1001822643215  msg_id: 357  text= 357   2023-07-04 19:14:14.391859
+cmd: SL  sgn_tp: 1.2723
+bildirim(channel)  -1001822643215  msg_id: 351  text= 351   2023-07-04 19:14:14.550638
+---------------------------------------------------------------------
+read_group_msg() mid= 365 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1689112537  msg:  SHORT
+ XVGUSDT
+ Entry : 0.006999 - 0.006940
+ Target 1 - 0.006880
+ Target 2 - 0.006800
+ Target 3 - 0.006740
+ Target 4 - 0.006685
+ Target 5 - 0.006600
+ Stop Loss : 0.007280
+ Leverage: CROSS 5x-20X aras
+w:  short
+w:  xvgusdt
+w:  entry : 0.006999 - 0.006940
+w:  target 1 - 0.006880
+w:  target 2 - 0.006800
+w:  target 3 - 0.006740
+w:  target 4 - 0.006685
+w:  target 5 - 0.006600
+w:  stop loss : 0.007280
+w:  leverage: cross 5x-20x aras
+signal: {'symbol': 'XVGUSDT', 'trend': 'SHORT', 'entry1': 0.006999, 'entry2': 0.00694, 'tp1': 0.00688, 'tp2': 0.0068, 'tp3': 0.00674, 'tp4': 0.006685, 'tp5': 0.0066, 'tp6': 0, 'tp7': 0, 'tp8': 0, 'tp9': 0, 'tp10': 0, 'sl': 0.00728}
+read_signal signal_ayikla: {'symbol': 'XVGUSDT', 'trend': 'SHORT', 'entry1': 0.006999, 'entry2': 0.00694, 'tp1': 0.00688, 'tp2': 0.0068, 'tp3': 0.00674, 'tp4': 0.006685, 'tp5': 0.0066, 'tp6': 0, 'tp7': 0, 'tp8': 0, 'tp9': 0, 'tp10': 0, 'sl': 0.00728}
+signal_hash: MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdYVkdVU0RUJywgJ3RyZW5kJzogJ1NIT1JUJywgJ2VudHJ5MSc6IDAuMDA2OTk5LCAnZW50cnkyJzogMC4wMDY5NCwgJ3RwMSc6IDAuMDA2ODgsICd0cDInOiAwLjAwNjgsICd0cDMnOiAwLjAwNjc0LCAndHA0JzogMC4wMDY2ODUsICd0cDUnOiAwLjAwNjYsICd0cDYnOiAwLCAndHA3JzogMCwgJ3RwOCc6IDAsICd0cDknOiAwLCAndHAxMCc6IDAsICdzbCc6IDAuMDA3Mjh9
+signal_new_id: 366
+myt_sql: INSERT INTO `signals` (`id` ,`signalgrup` ,`signalid` ,`signal_data` ,`symbol` ,`trend` ,`entry1` ,`entry2` ,`sl` ,`tp1` ,`tp2` ,`tp3`,`tp4`,`tp5`,`tp6`,`tp7`,`tp8`,`tp9`,`tp10`,`tarih`) VALUES (NULL , '365' , '366' , 'MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdYVkdVU0RUJywgJ3RyZW5kJzogJ1NIT1JUJywgJ2VudHJ5MSc6IDAuMDA2OTk5LCAnZW50cnkyJzogMC4wMDY5NCwgJ3RwMSc6IDAuMDA2ODgsICd0cDInOiAwLjAwNjgsICd0cDMnOiAwLjAwNjc0LCAndHA0JzogMC4wMDY2ODUsICd0cDUnOiAwLjAwNjYsICd0cDYnOiAwLCAndHA3JzogMCwgJ3RwOCc6IDAsICd0cDknOiAwLCAndHAxMCc6IDAsICdzbCc6IDAuMDA3Mjh9' , 'XVGUSDT', 'SHORT', '0.006999', '0.00694', '0.00728', '0.00688', '0.0068', '0.00674', '0.006685', '0.0066', '0', '0', '0', '0', '0', '2023-07-11 21:55:37');
+message deleted  365
+---------------------------------------------------------------------
+read_group_msg() mid= 367 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1689112564  msg:  SHORT
+ XVGUSDT
+ Entry : 0.006999 - 0.006920
+ Target 1 - 0.006880
+ Target 2 - 0.006800
+ Target 3 - 0.006740
+ Target 4 - 0.006685
+ Target 5 - 0.006600
+ Stop Loss : 0.007280
+ Leverage: CROSS 5x-20X aras
+w:  short
+w:  xvgusdt
+w:  entry : 0.006999 - 0.006920
+w:  target 1 - 0.006880
+w:  target 2 - 0.006800
+w:  target 3 - 0.006740
+w:  target 4 - 0.006685
+w:  target 5 - 0.006600
+w:  stop loss : 0.007280
+w:  leverage: cross 5x-20x aras
+signal: {'symbol': 'XVGUSDT', 'trend': 'SHORT', 'entry1': 0.006999, 'entry2': 0.00692, 'tp1': 0.00688, 'tp2': 0.0068, 'tp3': 0.00674, 'tp4': 0.006685, 'tp5': 0.0066, 'tp6': 0, 'tp7': 0, 'tp8': 0, 'tp9': 0, 'tp10': 0, 'sl': 0.00728}
+read_signal signal_ayikla: {'symbol': 'XVGUSDT', 'trend': 'SHORT', 'entry1': 0.006999, 'entry2': 0.00692, 'tp1': 0.00688, 'tp2': 0.0068, 'tp3': 0.00674, 'tp4': 0.006685, 'tp5': 0.0066, 'tp6': 0, 'tp7': 0, 'tp8': 0, 'tp9': 0, 'tp10': 0, 'sl': 0.00728}
+signal_hash: MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdYVkdVU0RUJywgJ3RyZW5kJzogJ1NIT1JUJywgJ2VudHJ5MSc6IDAuMDA2OTk5LCAnZW50cnkyJzogMC4wMDY5MiwgJ3RwMSc6IDAuMDA2ODgsICd0cDInOiAwLjAwNjgsICd0cDMnOiAwLjAwNjc0LCAndHA0JzogMC4wMDY2ODUsICd0cDUnOiAwLjAwNjYsICd0cDYnOiAwLCAndHA3JzogMCwgJ3RwOCc6IDAsICd0cDknOiAwLCAndHAxMCc6IDAsICdzbCc6IDAuMDA3Mjh9
+signal_new_id: 368
+myt_sql: INSERT INTO `signals` (`id` ,`signalgrup` ,`signalid` ,`signal_data` ,`symbol` ,`trend` ,`entry1` ,`entry2` ,`sl` ,`tp1` ,`tp2` ,`tp3`,`tp4`,`tp5`,`tp6`,`tp7`,`tp8`,`tp9`,`tp10`,`tarih`) VALUES (NULL , '367' , '368' , 'MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdYVkdVU0RUJywgJ3RyZW5kJzogJ1NIT1JUJywgJ2VudHJ5MSc6IDAuMDA2OTk5LCAnZW50cnkyJzogMC4wMDY5MiwgJ3RwMSc6IDAuMDA2ODgsICd0cDInOiAwLjAwNjgsICd0cDMnOiAwLjAwNjc0LCAndHA0JzogMC4wMDY2ODUsICd0cDUnOiAwLjAwNjYsICd0cDYnOiAwLCAndHA3JzogMCwgJ3RwOCc6IDAsICd0cDknOiAwLCAndHAxMCc6IDAsICdzbCc6IDAuMDA3Mjh9' , 'XVGUSDT', 'SHORT', '0.006999', '0.00692', '0.00728', '0.00688', '0.0068', '0.00674', '0.006685', '0.0066', '0', '0', '0', '0', '0', '2023-07-11 21:56:04');
+message deleted  367
+nohup: ignoring input
+hknvip3 VIP  Server started
+bot baslangic tarihi= 1689293313.323322
+telegram_pool basladı
+channel_updates basladi
+---------------------------------------------------------------------
+read_group_msg() mid= 488 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1689293423  msg: LONG 
+Binance Futures - binance 
+Pair: BNBUSDT 
+Bid: 256.06 Ask:256.07 
+Entry: 256.12 - 256.07 
+Targets : 256.12 - 256.17 - 256.22 - 256.27 - 256.33 - 256.38 - 256.43 - 256.48 - 256.53 - 256.58 
+Stop Loss: 254.79 
+Leverage Cross 50x
+w: long 
+w: binance futures - binance 
+w: pair: bnbusdt 
+w: bid: 256.06 ask:256.07 
+w: entry: 256.12 - 256.07 
+w: targets : 256.12 - 256.17 - 256.22 - 256.27 - 256.33 - 256.38 - 256.43 - 256.48 - 256.53 - 256.58 
+w: stop loss: 254.79 
+w: leverage cross 50x
+signal: {'symbol': 'BNBUSDT', 'trend': 'LONG', 'entry1': 256.07, 'entry2': 256.12, 'tp1': 256.12, 'tp2': 256.17, 'tp3': 256.22, 'tp4': 256.27, 'tp5': 256.33, 'tp6': 256.38, 'tp7': 256.43, 'tp8': 256.48, 'tp9': 256.53, 'tp10': 256.58, 'sl': 254.79}
+read_signal signal_ayikla: {'symbol': 'BNBUSDT', 'trend': 'LONG', 'entry1': 256.07, 'entry2': 256.12, 'tp1': 256.12, 'tp2': 256.17, 'tp3': 256.22, 'tp4': 256.27, 'tp5': 256.33, 'tp6': 256.38, 'tp7': 256.43, 'tp8': 256.48, 'tp9': 256.53, 'tp10': 256.58, 'sl': 254.79}
+signal_hash: MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdCTkJVU0RUJywgJ3RyZW5kJzogJ0xPTkcnLCAnZW50cnkxJzogMjU2LjA3LCAnZW50cnkyJzogMjU2LjEyLCAndHAxJzogMjU2LjEyLCAndHAyJzogMjU2LjE3LCAndHAzJzogMjU2LjIyLCAndHA0JzogMjU2LjI3LCAndHA1JzogMjU2LjMzLCAndHA2JzogMjU2LjM4LCAndHA3JzogMjU2LjQzLCAndHA4JzogMjU2LjQ4LCAndHA5JzogMjU2LjUzLCAndHAxMCc6IDI1Ni41OCwgJ3NsJzogMjU0Ljc5fQ==
+signal_new_id: 489
+myt_sql: INSERT INTO `signals` (`id` ,`signalgrup` ,`signalid` ,`signal_data` ,`symbol` ,`trend` ,`entry1` ,`entry2` ,`sl` ,`tp1` ,`tp2` ,`tp3`,`tp4`,`tp5`,`tp6`,`tp7`,`tp8`,`tp9`,`tp10`,`tarih`) VALUES (NULL , '488' , '489' , 'MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdCTkJVU0RUJywgJ3RyZW5kJzogJ0xPTkcnLCAnZW50cnkxJzogMjU2LjA3LCAnZW50cnkyJzogMjU2LjEyLCAndHAxJzogMjU2LjEyLCAndHAyJzogMjU2LjE3LCAndHAzJzogMjU2LjIyLCAndHA0JzogMjU2LjI3LCAndHA1JzogMjU2LjMzLCAndHA2JzogMjU2LjM4LCAndHA3JzogMjU2LjQzLCAndHA4JzogMjU2LjQ4LCAndHA5JzogMjU2LjUzLCAndHAxMCc6IDI1Ni41OCwgJ3NsJzogMjU0Ljc5fQ==' , 'BNBUSDT', 'LONG', '256.07', '256.12', '254.79', '256.12', '256.17', '256.22', '256.27', '256.33', '256.38', '256.43', '256.48', '256.53', '256.58', '2023-07-14 00:10:23');
+message deleted  488
+cmd: OPEN  sgn_tp: 0
+bildirim(channel)  -1001822643215  msg_id: 489  text= 489   2023-07-14 00:10:24.948110
+cmd: TP1  sgn_tp: 1
+bildirim(channel)  -1001822643215  msg_id: 489  text= 489   2023-07-14 00:10:30.026329
+---------------------------------------------------------------------
+read_group_msg() mid= 492 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1689293430  msg: LONG 
+Binance Futures - binance 
+Pair: ETHUSDT 
+Bid: 2007.9 Ask:2007.91 
+Entry: 2008.31 - 2007.91 
+Targets : 2008.31 - 2008.71 - 2009.11 - 2009.52 - 2009.92 - 2010.32 - 2010.72 - 2011.12 - 2011.52 - 2011.93 
+Stop Loss: 1997.87 
+Leverage Cross 50x
+w: long 
+w: binance futures - binance 
+w: pair: ethusdt 
+w: bid: 2007.9 ask:2007.91 
+w: entry: 2008.31 - 2007.91 
+w: targets : 2008.31 - 2008.71 - 2009.11 - 2009.52 - 2009.92 - 2010.32 - 2010.72 - 2011.12 - 2011.52 - 2011.93 
+w: stop loss: 1997.87 
+w: leverage cross 50x
+signal: {'symbol': 'ETHUSDT', 'trend': 'LONG', 'entry1': 2007.91, 'entry2': 2008.31, 'tp1': 2008.31, 'tp2': 2008.71, 'tp3': 2009.11, 'tp4': 2009.52, 'tp5': 2009.92, 'tp6': 2010.32, 'tp7': 2010.72, 'tp8': 2011.12, 'tp9': 2011.52, 'tp10': 2011.93, 'sl': 1997.87}
+read_signal signal_ayikla: {'symbol': 'ETHUSDT', 'trend': 'LONG', 'entry1': 2007.91, 'entry2': 2008.31, 'tp1': 2008.31, 'tp2': 2008.71, 'tp3': 2009.11, 'tp4': 2009.52, 'tp5': 2009.92, 'tp6': 2010.32, 'tp7': 2010.72, 'tp8': 2011.12, 'tp9': 2011.52, 'tp10': 2011.93, 'sl': 1997.87}
+signal_hash: MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdFVEhVU0RUJywgJ3RyZW5kJzogJ0xPTkcnLCAnZW50cnkxJzogMjAwNy45MSwgJ2VudHJ5Mic6IDIwMDguMzEsICd0cDEnOiAyMDA4LjMxLCAndHAyJzogMjAwOC43MSwgJ3RwMyc6IDIwMDkuMTEsICd0cDQnOiAyMDA5LjUyLCAndHA1JzogMjAwOS45MiwgJ3RwNic6IDIwMTAuMzIsICd0cDcnOiAyMDEwLjcyLCAndHA4JzogMjAxMS4xMiwgJ3RwOSc6IDIwMTEuNTIsICd0cDEwJzogMjAxMS45MywgJ3NsJzogMTk5Ny44N30=
+signal_new_id: 493
+myt_sql: INSERT INTO `signals` (`id` ,`signalgrup` ,`signalid` ,`signal_data` ,`symbol` ,`trend` ,`entry1` ,`entry2` ,`sl` ,`tp1` ,`tp2` ,`tp3`,`tp4`,`tp5`,`tp6`,`tp7`,`tp8`,`tp9`,`tp10`,`tarih`) VALUES (NULL , '492' , '493' , 'MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdFVEhVU0RUJywgJ3RyZW5kJzogJ0xPTkcnLCAnZW50cnkxJzogMjAwNy45MSwgJ2VudHJ5Mic6IDIwMDguMzEsICd0cDEnOiAyMDA4LjMxLCAndHAyJzogMjAwOC43MSwgJ3RwMyc6IDIwMDkuMTEsICd0cDQnOiAyMDA5LjUyLCAndHA1JzogMjAwOS45MiwgJ3RwNic6IDIwMTAuMzIsICd0cDcnOiAyMDEwLjcyLCAndHA4JzogMjAxMS4xMiwgJ3RwOSc6IDIwMTEuNTIsICd0cDEwJzogMjAxMS45MywgJ3NsJzogMTk5Ny44N30=' , 'ETHUSDT', 'LONG', '2007.91', '2008.31', '1997.87', '2008.31', '2008.71', '2009.11', '2009.52', '2009.92', '2010.32', '2010.72', '2011.12', '2011.52', '2011.93', '2023-07-14 00:10:30');
+message deleted  492
+---------------------------------------------------------------------
+read_group_msg() mid= 494 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1689293438  msg: LONG 
+Binance Futures - binance 
+Pair: SANDUSDT 
+Bid: 0.4771 Ask:0.4772 
+Entry: 0.4773 - 0.4772 
+Targets : 0.4773 - 0.4774 - 0.4775 - 0.4776 - 0.4777 - 0.4778 - 0.4779 - 0.4780 - 0.4781 - 0.4782 
+Stop Loss: 0.4748 
+Leverage Cross 50x
+w: long 
+w: binance futures - binance 
+w: pair: sandusdt 
+w: bid: 0.4771 ask:0.4772 
+w: entry: 0.4773 - 0.4772 
+w: targets : 0.4773 - 0.4774 - 0.4775 - 0.4776 - 0.4777 - 0.4778 - 0.4779 - 0.4780 - 0.4781 - 0.4782 
+w: stop loss: 0.4748 
+w: leverage cross 50x
+signal: {'symbol': 'SANDUSDT', 'trend': 'LONG', 'entry1': 0.4772, 'entry2': 0.4773, 'tp1': 0.4773, 'tp2': 0.4774, 'tp3': 0.4775, 'tp4': 0.4776, 'tp5': 0.4777, 'tp6': 0.4778, 'tp7': 0.4779, 'tp8': 0.478, 'tp9': 0.4781, 'tp10': 0.4782, 'sl': 0.4748}
+read_signal signal_ayikla: {'symbol': 'SANDUSDT', 'trend': 'LONG', 'entry1': 0.4772, 'entry2': 0.4773, 'tp1': 0.4773, 'tp2': 0.4774, 'tp3': 0.4775, 'tp4': 0.4776, 'tp5': 0.4777, 'tp6': 0.4778, 'tp7': 0.4779, 'tp8': 0.478, 'tp9': 0.4781, 'tp10': 0.4782, 'sl': 0.4748}
+signal_hash: MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdTQU5EVVNEVCcsICd0cmVuZCc6ICdMT05HJywgJ2VudHJ5MSc6IDAuNDc3MiwgJ2VudHJ5Mic6IDAuNDc3MywgJ3RwMSc6IDAuNDc3MywgJ3RwMic6IDAuNDc3NCwgJ3RwMyc6IDAuNDc3NSwgJ3RwNCc6IDAuNDc3NiwgJ3RwNSc6IDAuNDc3NywgJ3RwNic6IDAuNDc3OCwgJ3RwNyc6IDAuNDc3OSwgJ3RwOCc6IDAuNDc4LCAndHA5JzogMC40NzgxLCAndHAxMCc6IDAuNDc4MiwgJ3NsJzogMC40NzQ4fQ==
+signal_new_id: 495
+myt_sql: INSERT INTO `signals` (`id` ,`signalgrup` ,`signalid` ,`signal_data` ,`symbol` ,`trend` ,`entry1` ,`entry2` ,`sl` ,`tp1` ,`tp2` ,`tp3`,`tp4`,`tp5`,`tp6`,`tp7`,`tp8`,`tp9`,`tp10`,`tarih`) VALUES (NULL , '494' , '495' , 'MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdTQU5EVVNEVCcsICd0cmVuZCc6ICdMT05HJywgJ2VudHJ5MSc6IDAuNDc3MiwgJ2VudHJ5Mic6IDAuNDc3MywgJ3RwMSc6IDAuNDc3MywgJ3RwMic6IDAuNDc3NCwgJ3RwMyc6IDAuNDc3NSwgJ3RwNCc6IDAuNDc3NiwgJ3RwNSc6IDAuNDc3NywgJ3RwNic6IDAuNDc3OCwgJ3RwNyc6IDAuNDc3OSwgJ3RwOCc6IDAuNDc4LCAndHA5JzogMC40NzgxLCAndHAxMCc6IDAuNDc4MiwgJ3NsJzogMC40NzQ4fQ==' , 'SANDUSDT', 'LONG', '0.4772', '0.4773', '0.4748', '0.4773', '0.4774', '0.4775', '0.4776', '0.4777', '0.4778', '0.4779', '0.478', '0.4781', '0.4782', '2023-07-14 00:10:38');
+message deleted  494
+cmd: TP2  sgn_tp: 2
+save_name: screenshots/BNBUSDT_1822643215_489_3.png
+-----  start: 2023-07-14 03:10:24  db1: -180  stop: 2023-07-14 03:10:39  db2: -180  tf: 1m  fark: 0
+start: 2023-07-14 03:10:24   1m   60   1689303924
+generate_chart error: too many indices for array: array is 1-dimensional, but 2 were indexed
+gruba bildirim not reply line363  [Errno 2] No such file or directory: 'screenshots/BNBUSDT_1822643215_489_3.png'
+bildirim(channel)  -1001822643215  msg_id: 489  text= 489   2023-07-14 00:10:41.576850
+---------------------------------------------------------------------
+read_group_msg() mid= 496 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1689293444  msg: LONG 
+Binance Futures - binance 
+Pair: GALAUSDT 
+Bid: 0.0264 Ask:0.02641 
+Entry: 0.02642 - 0.02641 
+Targets : 0.02642 - 0.02642 - 0.02643 - 0.02643 - 0.02644 - 0.02644 - 0.02645 - 0.02645 - 0.02646 - 0.02646 
+Stop Loss: 0.02628 
+Leverage Cross 50x
+w: long 
+w: binance futures - binance 
+w: pair: galausdt 
+w: bid: 0.0264 ask:0.02641 
+w: entry: 0.02642 - 0.02641 
+w: targets : 0.02642 - 0.02642 - 0.02643 - 0.02643 - 0.02644 - 0.02644 - 0.02645 - 0.02645 - 0.02646 - 0.02646 
+w: stop loss: 0.02628 
+w: leverage cross 50x
+signal: {'symbol': 'GALAUSDT', 'trend': 'LONG', 'entry1': 0.02641, 'entry2': 0.02642, 'tp1': 0.02642, 'tp2': 0.02642, 'tp3': 0.02643, 'tp4': 0.02643, 'tp5': 0.02644, 'tp6': 0.02644, 'tp7': 0.02645, 'tp8': 0.02645, 'tp9': 0.02646, 'tp10': 0.02646, 'sl': 0.02628}
+read_signal signal_ayikla: {'symbol': 'GALAUSDT', 'trend': 'LONG', 'entry1': 0.02641, 'entry2': 0.02642, 'tp1': 0.02642, 'tp2': 0.02642, 'tp3': 0.02643, 'tp4': 0.02643, 'tp5': 0.02644, 'tp6': 0.02644, 'tp7': 0.02645, 'tp8': 0.02645, 'tp9': 0.02646, 'tp10': 0.02646, 'sl': 0.02628}
+signal_hash: MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdHQUxBVVNEVCcsICd0cmVuZCc6ICdMT05HJywgJ2VudHJ5MSc6IDAuMDI2NDEsICdlbnRyeTInOiAwLjAyNjQyLCAndHAxJzogMC4wMjY0MiwgJ3RwMic6IDAuMDI2NDIsICd0cDMnOiAwLjAyNjQzLCAndHA0JzogMC4wMjY0MywgJ3RwNSc6IDAuMDI2NDQsICd0cDYnOiAwLjAyNjQ0LCAndHA3JzogMC4wMjY0NSwgJ3RwOCc6IDAuMDI2NDUsICd0cDknOiAwLjAyNjQ2LCAndHAxMCc6IDAuMDI2NDYsICdzbCc6IDAuMDI2Mjh9
+signal_new_id: 497
+myt_sql: INSERT INTO `signals` (`id` ,`signalgrup` ,`signalid` ,`signal_data` ,`symbol` ,`trend` ,`entry1` ,`entry2` ,`sl` ,`tp1` ,`tp2` ,`tp3`,`tp4`,`tp5`,`tp6`,`tp7`,`tp8`,`tp9`,`tp10`,`tarih`) VALUES (NULL , '496' , '497' , 'MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdHQUxBVVNEVCcsICd0cmVuZCc6ICdMT05HJywgJ2VudHJ5MSc6IDAuMDI2NDEsICdlbnRyeTInOiAwLjAyNjQyLCAndHAxJzogMC4wMjY0MiwgJ3RwMic6IDAuMDI2NDIsICd0cDMnOiAwLjAyNjQzLCAndHA0JzogMC4wMjY0MywgJ3RwNSc6IDAuMDI2NDQsICd0cDYnOiAwLjAyNjQ0LCAndHA3JzogMC4wMjY0NSwgJ3RwOCc6IDAuMDI2NDUsICd0cDknOiAwLjAyNjQ2LCAndHAxMCc6IDAuMDI2NDYsICdzbCc6IDAuMDI2Mjh9' , 'GALAUSDT', 'LONG', '0.02641', '0.02642', '0.02628', '0.02642', '0.02642', '0.02643', '0.02643', '0.02644', '0.02644', '0.02645', '0.02645', '0.02646', '0.02646', '2023-07-14 00:10:44');
+message deleted  496
+cmd: OPEN  sgn_tp: 0
+bildirim(channel)  -1001822643215  msg_id: 495  text= 495   2023-07-14 00:11:01.685255
+---------------------------------------------------------------------
+read_group_msg() mid= 499 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1689293465  msg: LONG 
+Binance Futures - binance 
+Pair: JASMYUSDT 
+Bid: 0.004348 Ask:0.004349 
+Entry: 0.004350 - 0.004349 
+Targets : 0.004350 - 0.004351 - 0.004352 - 0.004352 - 0.004353 - 0.004354 - 0.004355 - 0.004356 - 0.004357 - 0.004358 
+Stop Loss: 0.004327 
+Leverage Cross 50x
+w: long 
+w: binance futures - binance 
+w: pair: jasmyusdt 
+w: bid: 0.004348 ask:0.004349 
+w: entry: 0.004350 - 0.004349 
+w: targets : 0.004350 - 0.004351 - 0.004352 - 0.004352 - 0.004353 - 0.004354 - 0.004355 - 0.004356 - 0.004357 - 0.004358 
+w: stop loss: 0.004327 
+w: leverage cross 50x
+signal: {'symbol': 'JASMYUSDT', 'trend': 'LONG', 'entry1': 0.004349, 'entry2': 0.00435, 'tp1': 0.00435, 'tp2': 0.004351, 'tp3': 0.004352, 'tp4': 0.004352, 'tp5': 0.004353, 'tp6': 0.004354, 'tp7': 0.004355, 'tp8': 0.004356, 'tp9': 0.004357, 'tp10': 0.004358, 'sl': 0.004327}
+read_signal signal_ayikla: {'symbol': 'JASMYUSDT', 'trend': 'LONG', 'entry1': 0.004349, 'entry2': 0.00435, 'tp1': 0.00435, 'tp2': 0.004351, 'tp3': 0.004352, 'tp4': 0.004352, 'tp5': 0.004353, 'tp6': 0.004354, 'tp7': 0.004355, 'tp8': 0.004356, 'tp9': 0.004357, 'tp10': 0.004358, 'sl': 0.004327}
+signal_hash: MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdKQVNNWVVTRFQnLCAndHJlbmQnOiAnTE9ORycsICdlbnRyeTEnOiAwLjAwNDM0OSwgJ2VudHJ5Mic6IDAuMDA0MzUsICd0cDEnOiAwLjAwNDM1LCAndHAyJzogMC4wMDQzNTEsICd0cDMnOiAwLjAwNDM1MiwgJ3RwNCc6IDAuMDA0MzUyLCAndHA1JzogMC4wMDQzNTMsICd0cDYnOiAwLjAwNDM1NCwgJ3RwNyc6IDAuMDA0MzU1LCAndHA4JzogMC4wMDQzNTYsICd0cDknOiAwLjAwNDM1NywgJ3RwMTAnOiAwLjAwNDM1OCwgJ3NsJzogMC4wMDQzMjd9
+signal_new_id: 500
+myt_sql: INSERT INTO `signals` (`id` ,`signalgrup` ,`signalid` ,`signal_data` ,`symbol` ,`trend` ,`entry1` ,`entry2` ,`sl` ,`tp1` ,`tp2` ,`tp3`,`tp4`,`tp5`,`tp6`,`tp7`,`tp8`,`tp9`,`tp10`,`tarih`) VALUES (NULL , '499' , '500' , 'MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdKQVNNWVVTRFQnLCAndHJlbmQnOiAnTE9ORycsICdlbnRyeTEnOiAwLjAwNDM0OSwgJ2VudHJ5Mic6IDAuMDA0MzUsICd0cDEnOiAwLjAwNDM1LCAndHAyJzogMC4wMDQzNTEsICd0cDMnOiAwLjAwNDM1MiwgJ3RwNCc6IDAuMDA0MzUyLCAndHA1JzogMC4wMDQzNTMsICd0cDYnOiAwLjAwNDM1NCwgJ3RwNyc6IDAuMDA0MzU1LCAndHA4JzogMC4wMDQzNTYsICd0cDknOiAwLjAwNDM1NywgJ3RwMTAnOiAwLjAwNDM1OCwgJ3NsJzogMC4wMDQzMjd9' , 'JASMYUSDT', 'LONG', '0.004349', '0.00435', '0.004327', '0.00435', '0.004351', '0.004352', '0.004352', '0.004353', '0.004354', '0.004355', '0.004356', '0.004357', '0.004358', '2023-07-14 00:11:05');
+message deleted  499
+cmd: OPEN  sgn_tp: 0
+bildirim(channel)  -1001822643215  msg_id: 500  text= 500   2023-07-14 00:11:08.738752
+cmd: TP1  sgn_tp: 1
+bildirim(channel)  -1001822643215  msg_id: 500  text= 500   2023-07-14 00:11:23.898087
+cmd: TP2  sgn_tp: 2
+save_name: screenshots/JASMYUSDT_1822643215_500_7.png
+-----  start: 2023-07-14 03:11:08  db1: -180  stop: 2023-07-14 03:11:30  db2: -180  tf: 1m  fark: 0
+start: 2023-07-14 03:11:08   1m   60   1689303968
+generate_chart error: too many indices for array: array is 1-dimensional, but 2 were indexed
+gruba bildirim not reply line363  [Errno 2] No such file or directory: 'screenshots/JASMYUSDT_1822643215_500_7.png'
+bildirim(channel)  -1001822643215  msg_id: 500  text= 500   2023-07-14 00:11:31.540993
+cmd: TP4  sgn_tp: 4
+save_name: screenshots/JASMYUSDT_1822643215_500_8.png
+-----  start: 2023-07-14 03:11:08  db1: -178  stop: 2023-07-14 03:13:02  db2: -180  tf: 1m  fark: 2
+start: 2023-07-14 03:11:08   1m   60   1689303968
+generate_chart error: too many indices for array: array is 1-dimensional, but 2 were indexed
+gruba bildirim not reply line363  [Errno 2] No such file or directory: 'screenshots/JASMYUSDT_1822643215_500_8.png'
+bildirim(channel)  -1001822643215  msg_id: 500  text= 500   2023-07-14 00:13:04.409197
+cmd: TP3  sgn_tp: 3
+save_name: screenshots/JASMYUSDT_1822643215_500_9.png
+-----  start: 2023-07-14 03:11:08  db1: -178  stop: 2023-07-14 03:13:02  db2: -180  tf: 1m  fark: 2
+start: 2023-07-14 03:11:08   1m   60   1689303968
+generate_chart error: too many indices for array: array is 1-dimensional, but 2 were indexed
+gruba bildirim not reply line363  [Errno 2] No such file or directory: 'screenshots/JASMYUSDT_1822643215_500_9.png'
+bildirim(channel)  -1001822643215  msg_id: 500  text= 500   2023-07-14 00:13:04.992092
+cmd: TP5  sgn_tp: 5
+save_name: screenshots/JASMYUSDT_1822643215_500_10.png
+-----  start: 2023-07-14 03:11:08  db1: -178  stop: 2023-07-14 03:13:04  db2: -180  tf: 1m  fark: 2
+start: 2023-07-14 03:11:08   1m   60   1689303968
+generate_chart error: too many indices for array: array is 1-dimensional, but 2 were indexed
+gruba bildirim not reply line363  [Errno 2] No such file or directory: 'screenshots/JASMYUSDT_1822643215_500_10.png'
+bildirim(channel)  -1001822643215  msg_id: 500  text= 500   2023-07-14 00:13:06.687300
+cmd: TP6  sgn_tp: 6
+save_name: screenshots/JASMYUSDT_1822643215_500_11.png
+-----  start: 2023-07-14 03:11:08  db1: -178  stop: 2023-07-14 03:13:07  db2: -180  tf: 1m  fark: 2
+start: 2023-07-14 03:11:08   1m   60   1689303968
+generate_chart error: too many indices for array: array is 1-dimensional, but 2 were indexed
+gruba bildirim not reply line363  [Errno 2] No such file or directory: 'screenshots/JASMYUSDT_1822643215_500_11.png'
+bildirim(channel)  -1001822643215  msg_id: 500  text= 500   2023-07-14 00:13:08.286788
+---------------------------------------------------------------------
+read_group_msg() mid= 503 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1689293623  msg: LONG 
+Binance Futures - binance 
+Pair: JASMYUSDT 
+Bid: 0.004359 Ask:0.00436 
+Entry: 0.004361 - 0.004360 
+Targets : 0.004361 - 0.004362 - 0.004363 - 0.004363 - 0.004364 - 0.004365 - 0.004366 - 0.004367 - 0.004368 - 0.004369 
+Stop Loss: 0.004338 
+Leverage Cross 50x
+w: long 
+w: binance futures - binance 
+w: pair: jasmyusdt 
+w: bid: 0.004359 ask:0.00436 
+w: entry: 0.004361 - 0.004360 
+w: targets : 0.004361 - 0.004362 - 0.004363 - 0.004363 - 0.004364 - 0.004365 - 0.004366 - 0.004367 - 0.004368 - 0.004369 
+w: stop loss: 0.004338 
+w: leverage cross 50x
+signal: {'symbol': 'JASMYUSDT', 'trend': 'LONG', 'entry1': 0.00436, 'entry2': 0.004361, 'tp1': 0.004361, 'tp2': 0.004362, 'tp3': 0.004363, 'tp4': 0.004363, 'tp5': 0.004364, 'tp6': 0.004365, 'tp7': 0.004366, 'tp8': 0.004367, 'tp9': 0.004368, 'tp10': 0.004369, 'sl': 0.004338}
+read_signal signal_ayikla: {'symbol': 'JASMYUSDT', 'trend': 'LONG', 'entry1': 0.00436, 'entry2': 0.004361, 'tp1': 0.004361, 'tp2': 0.004362, 'tp3': 0.004363, 'tp4': 0.004363, 'tp5': 0.004364, 'tp6': 0.004365, 'tp7': 0.004366, 'tp8': 0.004367, 'tp9': 0.004368, 'tp10': 0.004369, 'sl': 0.004338}
+signal_hash: MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdKQVNNWVVTRFQnLCAndHJlbmQnOiAnTE9ORycsICdlbnRyeTEnOiAwLjAwNDM2LCAnZW50cnkyJzogMC4wMDQzNjEsICd0cDEnOiAwLjAwNDM2MSwgJ3RwMic6IDAuMDA0MzYyLCAndHAzJzogMC4wMDQzNjMsICd0cDQnOiAwLjAwNDM2MywgJ3RwNSc6IDAuMDA0MzY0LCAndHA2JzogMC4wMDQzNjUsICd0cDcnOiAwLjAwNDM2NiwgJ3RwOCc6IDAuMDA0MzY3LCAndHA5JzogMC4wMDQzNjgsICd0cDEwJzogMC4wMDQzNjksICdzbCc6IDAuMDA0MzM4fQ==
+signal_new_id: 504
+myt_sql: INSERT INTO `signals` (`id` ,`signalgrup` ,`signalid` ,`signal_data` ,`symbol` ,`trend` ,`entry1` ,`entry2` ,`sl` ,`tp1` ,`tp2` ,`tp3`,`tp4`,`tp5`,`tp6`,`tp7`,`tp8`,`tp9`,`tp10`,`tarih`) VALUES (NULL , '503' , '504' , 'MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdKQVNNWVVTRFQnLCAndHJlbmQnOiAnTE9ORycsICdlbnRyeTEnOiAwLjAwNDM2LCAnZW50cnkyJzogMC4wMDQzNjEsICd0cDEnOiAwLjAwNDM2MSwgJ3RwMic6IDAuMDA0MzYyLCAndHAzJzogMC4wMDQzNjMsICd0cDQnOiAwLjAwNDM2MywgJ3RwNSc6IDAuMDA0MzY0LCAndHA2JzogMC4wMDQzNjUsICd0cDcnOiAwLjAwNDM2NiwgJ3RwOCc6IDAuMDA0MzY3LCAndHA5JzogMC4wMDQzNjgsICd0cDEwJzogMC4wMDQzNjksICdzbCc6IDAuMDA0MzM4fQ==' , 'JASMYUSDT', 'LONG', '0.00436', '0.004361', '0.004338', '0.004361', '0.004362', '0.004363', '0.004363', '0.004364', '0.004365', '0.004366', '0.004367', '0.004368', '0.004369', '2023-07-14 00:13:43');
+message deleted  503
+---------------------------------------------------------------------
+read_group_msg() mid= 505 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1689293635  msg: LONG 
+Binance Futures - binance 
+Pair: ETHUSDT 
+Bid: 2006.82 Ask:2006.83 
+Entry: 2007.23 - 2006.83 
+Targets : 2007.23 - 2007.63 - 2008.03 - 2008.44 - 2008.84 - 2009.24 - 2009.64 - 2010.04 - 2010.44 - 2010.84 
+Stop Loss: 1996.80 
+Leverage Cross 50x
+w: long 
+w: binance futures - binance 
+w: pair: ethusdt 
+w: bid: 2006.82 ask:2006.83 
+w: entry: 2007.23 - 2006.83 
+w: targets : 2007.23 - 2007.63 - 2008.03 - 2008.44 - 2008.84 - 2009.24 - 2009.64 - 2010.04 - 2010.44 - 2010.84 
+w: stop loss: 1996.80 
+w: leverage cross 50x
+signal: {'symbol': 'ETHUSDT', 'trend': 'LONG', 'entry1': 2006.83, 'entry2': 2007.23, 'tp1': 2007.23, 'tp2': 2007.63, 'tp3': 2008.03, 'tp4': 2008.44, 'tp5': 2008.84, 'tp6': 2009.24, 'tp7': 2009.64, 'tp8': 2010.04, 'tp9': 2010.44, 'tp10': 2010.84, 'sl': 1996.8}
+read_signal signal_ayikla: {'symbol': 'ETHUSDT', 'trend': 'LONG', 'entry1': 2006.83, 'entry2': 2007.23, 'tp1': 2007.23, 'tp2': 2007.63, 'tp3': 2008.03, 'tp4': 2008.44, 'tp5': 2008.84, 'tp6': 2009.24, 'tp7': 2009.64, 'tp8': 2010.04, 'tp9': 2010.44, 'tp10': 2010.84, 'sl': 1996.8}
+signal_hash: MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdFVEhVU0RUJywgJ3RyZW5kJzogJ0xPTkcnLCAnZW50cnkxJzogMjAwNi44MywgJ2VudHJ5Mic6IDIwMDcuMjMsICd0cDEnOiAyMDA3LjIzLCAndHAyJzogMjAwNy42MywgJ3RwMyc6IDIwMDguMDMsICd0cDQnOiAyMDA4LjQ0LCAndHA1JzogMjAwOC44NCwgJ3RwNic6IDIwMDkuMjQsICd0cDcnOiAyMDA5LjY0LCAndHA4JzogMjAxMC4wNCwgJ3RwOSc6IDIwMTAuNDQsICd0cDEwJzogMjAxMC44NCwgJ3NsJzogMTk5Ni44fQ==
+signal_new_id: 506
+myt_sql: INSERT INTO `signals` (`id` ,`signalgrup` ,`signalid` ,`signal_data` ,`symbol` ,`trend` ,`entry1` ,`entry2` ,`sl` ,`tp1` ,`tp2` ,`tp3`,`tp4`,`tp5`,`tp6`,`tp7`,`tp8`,`tp9`,`tp10`,`tarih`) VALUES (NULL , '505' , '506' , 'MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdFVEhVU0RUJywgJ3RyZW5kJzogJ0xPTkcnLCAnZW50cnkxJzogMjAwNi44MywgJ2VudHJ5Mic6IDIwMDcuMjMsICd0cDEnOiAyMDA3LjIzLCAndHAyJzogMjAwNy42MywgJ3RwMyc6IDIwMDguMDMsICd0cDQnOiAyMDA4LjQ0LCAndHA1JzogMjAwOC44NCwgJ3RwNic6IDIwMDkuMjQsICd0cDcnOiAyMDA5LjY0LCAndHA4JzogMjAxMC4wNCwgJ3RwOSc6IDIwMTAuNDQsICd0cDEwJzogMjAxMC44NCwgJ3NsJzogMTk5Ni44fQ==' , 'ETHUSDT', 'LONG', '2006.83', '2007.23', '1996.8', '2007.23', '2007.63', '2008.03', '2008.44', '2008.84', '2009.24', '2009.64', '2010.04', '2010.44', '2010.84', '2023-07-14 00:13:55');
+message deleted  505
+---------------------------------------------------------------------
+read_group_msg() mid= 507 gid= 1822643215 username= hknvip3
+hknvip3 [ 1822643215 ] >>  1689293698  msg: LONG 
+Binance Futures - binance 
+Pair: ETHUSDT 
+Bid: 2010.79 Ask:2010.8 
+Entry: 2011.20 - 2010.80 
+Targets : 2011.20 - 2011.60 - 2012.01 - 2012.41 - 2012.81 - 2013.21 - 2013.62 - 2014.02 - 2014.42 - 2014.82 
+Stop Loss: 2000.75 
+Leverage Cross 50x
+w: long 
+w: binance futures - binance 
+w: pair: ethusdt 
+w: bid: 2010.79 ask:2010.8 
+w: entry: 2011.20 - 2010.80 
+w: targets : 2011.20 - 2011.60 - 2012.01 - 2012.41 - 2012.81 - 2013.21 - 2013.62 - 2014.02 - 2014.42 - 2014.82 
+w: stop loss: 2000.75 
+w: leverage cross 50x
+signal: {'symbol': 'ETHUSDT', 'trend': 'LONG', 'entry1': 2010.8, 'entry2': 2011.2, 'tp1': 2011.2, 'tp2': 2011.6, 'tp3': 2012.01, 'tp4': 2012.41, 'tp5': 2012.81, 'tp6': 2013.21, 'tp7': 2013.62, 'tp8': 2014.02, 'tp9': 2014.42, 'tp10': 2014.82, 'sl': 2000.75}
+read_signal signal_ayikla: {'symbol': 'ETHUSDT', 'trend': 'LONG', 'entry1': 2010.8, 'entry2': 2011.2, 'tp1': 2011.2, 'tp2': 2011.6, 'tp3': 2012.01, 'tp4': 2012.41, 'tp5': 2012.81, 'tp6': 2013.21, 'tp7': 2013.62, 'tp8': 2014.02, 'tp9': 2014.42, 'tp10': 2014.82, 'sl': 2000.75}
+signal_hash: MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdFVEhVU0RUJywgJ3RyZW5kJzogJ0xPTkcnLCAnZW50cnkxJzogMjAxMC44LCAnZW50cnkyJzogMjAxMS4yLCAndHAxJzogMjAxMS4yLCAndHAyJzogMjAxMS42LCAndHAzJzogMjAxMi4wMSwgJ3RwNCc6IDIwMTIuNDEsICd0cDUnOiAyMDEyLjgxLCAndHA2JzogMjAxMy4yMSwgJ3RwNyc6IDIwMTMuNjIsICd0cDgnOiAyMDE0LjAyLCAndHA5JzogMjAxNC40MiwgJ3RwMTAnOiAyMDE0LjgyLCAnc2wnOiAyMDAwLjc1fQ==
+signal_new_id: 508
+myt_sql: INSERT INTO `signals` (`id` ,`signalgrup` ,`signalid` ,`signal_data` ,`symbol` ,`trend` ,`entry1` ,`entry2` ,`sl` ,`tp1` ,`tp2` ,`tp3`,`tp4`,`tp5`,`tp6`,`tp7`,`tp8`,`tp9`,`tp10`,`tarih`) VALUES (NULL , '507' , '508' , 'MTgyMjY0MzIxNV97J3N5bWJvbCc6ICdFVEhVU0RUJywgJ3RyZW5kJzogJ0xPTkcnLCAnZW50cnkxJzogMjAxMC44LCAnZW50cnkyJzogMjAxMS4yLCAndHAxJzogMjAxMS4yLCAndHAyJzogMjAxMS42LCAndHAzJzogMjAxMi4wMSwgJ3RwNCc6IDIwMTIuNDEsICd0cDUnOiAyMDEyLjgxLCAndHA2JzogMjAxMy4yMSwgJ3RwNyc6IDIwMTMuNjIsICd0cDgnOiAyMDE0LjAyLCAndHA5JzogMjAxNC40MiwgJ3RwMTAnOiAyMDE0LjgyLCAnc2wnOiAyMDAwLjc1fQ==' , 'ETHUSDT', 'LONG', '2010.8', '2011.2', '2000.75', '2011.2', '2011.6', '2012.01', '2012.41', '2012.81', '2013.21', '2013.62', '2014.02', '2014.42', '2014.82', '2023-07-14 00:14:58');
+message deleted  507
