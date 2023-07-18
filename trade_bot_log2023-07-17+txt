@@ -1,0 +1,1713 @@
+MySQL bağlantısı başarıyla gerçekleştirildi
+binance websocket started
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'jasmyusdt@bookTicker' ], id: 1 }
+bildirim_ch(1822643215)= #JASMYUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 0.003938
+Entry2: 0.003938  Ask:0.003938
+10:22:27.909Z - [s:1] run_user_signals();
+
+10:22:27.934Z - [s:1] u:5118957445|us:1 START JASMYUSDT LONG 2023-07-17 10:22:20 entry1:0.003938 sl:0.003928 tp:0.003938 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+10:22:28.014Z - [s:1|u:5118957445|us:1] started
+10:22:29.881Z - [s:1|u:5118957445|us:1] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+10:22:30.184Z - [s:1|u:5118957445|us:1] leverage status: { symbol: 'JASMYUSDT', leverage: '20', maxNotionalValue: '5000' }
+10:22:30.439Z - [s:1|u:5118957445|us:1] 5118957445 pyr_bnb JASMYUSDT LONG 2023-07-17 10:22:27.903Z b:0.003934 a:0.003935 # o:0  c:0 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+b_orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+run_user_error : TypeError: Cannot read property 'code' of undefined
+    at create_order (/var/www/html/hknvip3/trade_bot_hknvip3.js:680:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Timeout._onTimeout (/var/www/html/hknvip3/trade_bot_hknvip3.js:1093:6)
+bildirim_ch(1822643215)= #JASMYUSDT LONG 
+Sinyal #1 başarı ile tamamlandı
+
+MySQL bağlantısı başarıyla gerçekleştirildi
+binance websocket started
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'rlcusdt@bookTicker' ], id: 1 }
+bildirim_ch(1822643215)= #RLCUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 1.2239
+Entry2: 1.224  Ask:1.2239
+10:32:16.034Z - [s:1] run_user_signals();
+
+10:32:16.055Z - [s:1] u:5118957445|us:1 START RLCUSDT LONG 2023-07-17 10:32:10 entry1:1.2239 sl:1.2208 tp:1.224 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+10:32:16.168Z - [s:1|u:5118957445|us:1] started
+bildirim_ch(1822643215)= #RLCUSDT LONG Take-Profit 4 ✅
+Profit: %0.817 
+bildirim_ch(1822643215)= #RLCUSDT LONG Take-Profit 3 ✅
+Profit: %0.817 
+bildirim_ch(1822643215)= #RLCUSDT LONG Take-Profit 2 ✅
+Profit: %0.817 
+bildirim_ch(1822643215)= #RLCUSDT LONG Take-Profit 1 ✅
+Profit: %0.817 
+bildirim_ch(1822643215)= #RLCUSDT LONG Take-Profit 3 ✅
+Profit: %0.654 
+bildirim_ch(1822643215)= #RLCUSDT LONG Take-Profit 2 ✅
+Profit: %0.654 
+bildirim_ch(1822643215)= #RLCUSDT LONG Take-Profit 4 ✅
+Profit: %0.817 
+bildirim_ch(1822643215)= #RLCUSDT LONG Take-Profit 3 ✅
+Profit: %0.817 
+10:32:18.458Z - [s:1|u:5118957445|us:1] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+bildirim_ch(1822643215)= #RLCUSDT LONG Take-Profit 4 ✅
+Profit: %0.817 
+10:32:18.769Z - [s:1|u:5118957445|us:1] leverage status: { symbol: 'RLCUSDT', leverage: '20', maxNotionalValue: '25000' }
+10:32:19.029Z - [s:1|u:5118957445|us:1] 5118957445 pyr_bnb RLCUSDT LONG 2023-07-17 10:32:16.030Z b:1.2245 a:1.2246 # o:0  c:0 
+bildirim_ch(1822643215)= #RLCUSDT LONG Take-Profit 5 ✅
+Profit: %0.980 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+b_orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+10:32:21.200Z - create order error [s:1|u:5118957445|us:1] :  Cannot read property 'code' of undefined
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+b_orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+10:32:23.318Z - create order error [s:1|u:5118957445|us:1] :  Cannot read property 'code' of undefined
+bildirim_ch(1822643215)= #RLCUSDT LONG Take-Profit 6 ✅
+Profit: %1.307 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+bildirim_ch(1822643215)= #RLCUSDT LONG Take-Profit 8 ✅
+Profit: %1.634 
+bildirim_ch(1822643215)= #RLCUSDT LONG Take-Profit 7 ✅
+Profit: %1.634 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+b_orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+10:32:25.353Z - create order error [s:1|u:5118957445|us:1] :  Cannot read property 'code' of undefined
+bildirim_ch(1822643215)= #RLCUSDT LONG Take-Profit 10 ✅
+Profit: %1.961 
+bildirim_ch(1822643215)= #RLCUSDT LONG Take-Profit 9 ✅
+Profit: %1.961 
+bildirim_ch(1822643215)= #RLCUSDT LONG Take-Profit 8 ✅
+Profit: %1.961 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+b_orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+10:32:27.411Z - create order error [s:1|u:5118957445|us:1] :  Cannot read property 'code' of undefined
+MySQL bağlantısı başarıyla gerçekleştirildi
+binance websocket started
+MySQL bağlantısı başarıyla gerçekleştirildi
+binance websocket started
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'bnbusdt@bookTicker' ], id: 1 }
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'bchusdt@bookTicker' ], id: 2 }
+bildirim_ch(1822643215)= #BCHUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 242.7
+Entry2: 242.72  Ask:242.71
+10:35:57.649Z - [s:2] run_user_signals();
+
+10:35:57.677Z - [s:2] u:5118957445|us:1 START BCHUSDT LONG 2023-07-17 10:35:56 entry1:242.7 sl:242.09 tp:242.72 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+10:35:57.819Z - [s:2|u:5118957445|us:1] started
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 1 ✅
+Profit: %0.082 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 3 ✅
+Profit: %0.659 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 2 ✅
+Profit: %0.659 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 3 ✅
+Profit: %0.577 
+10:36:00.082Z - [s:2|u:5118957445|us:1] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 6 ✅
+Profit: %1.154 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 5 ✅
+Profit: %1.154 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 4 ✅
+Profit: %1.154 
+10:36:00.381Z - [s:2|u:5118957445|us:1] leverage status: { symbol: 'BCHUSDT', leverage: '20', maxNotionalValue: '500000' }
+bildirim_ch(1822643215)= #BNBUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 240.53
+Entry2: 240.55  Ask:240.540
+10:36:00.506Z - [s:1] run_user_signals();
+
+10:36:00.532Z - [s:1] u:5118957445|us:2 START BNBUSDT LONG 2023-07-17 10:35:37 entry1:240.53 sl:239.93 tp:240.55 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+10:36:00.603Z - [s:1|u:5118957445|us:2] started
+10:36:00.642Z - [s:2|u:5118957445|us:1] 5118957445 pyr_bnb BCHUSDT LONG 2023-07-17 10:35:57.643Z b:242.90 a:242.91 # o:0  c:0 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 9 ✅
+Profit: %1.730 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 8 ✅
+Profit: %1.730 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 7 ✅
+Profit: %1.730 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 6 ✅
+Profit: %1.730 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 5 ✅
+Profit: %1.730 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 6 ✅
+Profit: %1.236 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 8 ✅
+Profit: %1.566 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 7 ✅
+Profit: %1.566 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 1 ✅
+Profit: %0.083 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+b_orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+10:36:03.146Z - create order error [s:2|u:5118957445|us:1] :  Cannot read property 'code' of undefined
+10:36:03.156Z - [s:1|u:5118957445|us:2] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+10:36:03.463Z - [s:1|u:5118957445|us:2] leverage status: { symbol: 'BNBUSDT', leverage: '20', maxNotionalValue: '250000' }
+10:36:03.845Z - [s:1|u:5118957445|us:2] 5118957445 pyr_bnb BNBUSDT LONG 2023-07-17 10:36:00.500Z b:240.530 a:240.540 # o:0  c:0 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4164,"msg":"Order's notional must be no smaller than 5 (unless you choose reduce only)."}   {
+  code: -4164,
+  msg: "Order's notional must be no smaller than 5 (unless you choose reduce only)."
+}
+order_ticket: {
+  code: -4164,
+  msg: "Order's notional must be no smaller than 5 (unless you choose reduce only)."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+b_orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+10:36:05.238Z - create order error [s:2|u:5118957445|us:1] :  Cannot read property 'code' of undefined
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+b_orders: [
+  {
+    code: -4164,
+    msg: "Order's notional must be no smaller than 5 (unless you choose reduce only)."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+10:36:06.024Z - create order error [s:1|u:5118957445|us:2] :  Cannot read property 'code' of undefined
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4164,"msg":"Order's notional must be no smaller than 5 (unless you choose reduce only)."}   {
+  code: -4164,
+  msg: "Order's notional must be no smaller than 5 (unless you choose reduce only)."
+}
+order_ticket: {
+  code: -4164,
+  msg: "Order's notional must be no smaller than 5 (unless you choose reduce only)."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+b_orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+10:36:07.283Z - create order error [s:2|u:5118957445|us:1] :  Cannot read property 'code' of undefined
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+b_orders: [
+  {
+    code: -4164,
+    msg: "Order's notional must be no smaller than 5 (unless you choose reduce only)."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+10:36:08.100Z - create order error [s:1|u:5118957445|us:2] :  Cannot read property 'code' of undefined
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4164,"msg":"Order's notional must be no smaller than 5.0 (unless you choose reduce only)"}   {
+  code: -4164,
+  msg: "Order's notional must be no smaller than 5.0 (unless you choose reduce only)"
+}
+order_ticket: {
+  code: -4164,
+  msg: "Order's notional must be no smaller than 5.0 (unless you choose reduce only)"
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+b_orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+10:36:09.363Z - create order error [s:2|u:5118957445|us:1] :  Cannot read property 'code' of undefined
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 2 ✅
+Profit: %0.416 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+b_orders: [
+  {
+    code: -4164,
+    msg: "Order's notional must be no smaller than 5.0 (unless you choose reduce only)"
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+10:36:10.213Z - create order error [s:1|u:5118957445|us:2] :  Cannot read property 'code' of undefined
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+MySQL bağlantısı başarıyla gerçekleştirildi
+binance websocket started
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'cotiusdt@bookTicker' ], id: 1 }
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'ethusdt@bookTicker' ], id: 2 }
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'sandusdt@bookTicker' ], id: 3 }
+bildirim_ch(1822643215)= #SANDUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 0.4391
+Entry2: 0.4391  Ask:0.43910
+10:39:07.521Z - [s:3] run_user_signals();
+
+10:39:07.530Z - [s:3] u:5118957445|us:1 START SANDUSDT LONG 2023-07-17 10:38:51 entry1:0.4391 sl:0.438 tp:0.4391 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+10:39:07.566Z - [s:3|u:5118957445|us:1] started
+10:39:09.890Z - [s:3|u:5118957445|us:1] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+bildirim_ch(1822643215)= #SANDUSDT LONG Take-Profit 1 ✅
+Profit: %0.000 
+10:39:10.178Z - [s:3|u:5118957445|us:1] leverage status: { symbol: 'SANDUSDT', leverage: '20', maxNotionalValue: '400000' }
+10:39:10.441Z - [s:3|u:5118957445|us:1] 5118957445 pyr_bnb SANDUSDT LONG 2023-07-17 10:39:07.512Z b:0.43920 a:0.43930 # o:0  c:0 
+bildirim_ch(1822643215)= #SANDUSDT LONG Take-Profit 3 ✅
+Profit: %0.455 
+bildirim_ch(1822643215)= #SANDUSDT LONG Take-Profit 2 ✅
+Profit: %0.455 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+bildirim_ch(1822643215)= #ETHUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 1901.08
+Entry2: 1901.27  Ask:1901.08
+10:39:12.452Z - [s:2] run_user_signals();
+
+10:39:12.462Z - [s:2] u:5118957445|us:2 START ETHUSDT LONG 2023-07-17 10:38:40 entry1:1901.08 sl:1896.33 tp:1901.27 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+10:39:12.513Z - [s:2|u:5118957445|us:2] started
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+bildirim(5118957445)= binance Emir açılamadı. OPEN SANDUSDT LONG ERROR price:0.43930 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır+
+10:39:12.717Z - [s:3|u:5118957445|us:1] binance Emir açılamadı. OPEN SANDUSDT LONG ERROR price:0.43930 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır+'"
+
+10:39:14.508Z - [s:2|u:5118957445|us:2] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+10:39:14.804Z - [s:2|u:5118957445|us:2] leverage status: { symbol: 'ETHUSDT', leverage: '20', maxNotionalValue: '10000000' }
+10:39:15.057Z - [s:2|u:5118957445|us:2] 5118957445 pyr_bnb ETHUSDT LONG 2023-07-17 10:39:12.449Z b:1901.07 a:1901.08 # o:0  c:0 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+bildirim(5118957445)= binance Emir açılamadı. OPEN ETHUSDT LONG ERROR price:1901.08 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır+
+10:39:17.115Z - [s:2|u:5118957445|us:2] binance Emir açılamadı. OPEN ETHUSDT LONG ERROR price:1901.08 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır+'"
+
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 1 ✅
+Profit: %0.242 
+bildirim_ch(1822643215)= #SANDUSDT LONG Take-Profit 7 ✅
+Profit: %1.366 
+bildirim_ch(1822643215)= #SANDUSDT LONG Take-Profit 6 ✅
+Profit: %1.366 
+bildirim_ch(1822643215)= #SANDUSDT LONG Take-Profit 5 ✅
+Profit: %1.366 
+bildirim_ch(1822643215)= #SANDUSDT LONG Take-Profit 4 ✅
+Profit: %1.366 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 2 ✅
+Profit: %0.537 
+bildirim_ch(1822643215)= #SANDUSDT LONG Take-Profit 10 ✅
+Profit: %1.822 
+bildirim_ch(1822643215)= #SANDUSDT LONG Take-Profit 9 ✅
+Profit: %1.822 
+bildirim_ch(1822643215)= #SANDUSDT LONG Take-Profit 8 ✅
+Profit: %1.822 
+bildirim_ch(1822643215)= #SANDUSDT LONG Take-Profit 7 ✅
+Profit: %1.822 
+bildirim_ch(1822643215)= #SANDUSDT LONG Take-Profit 6 ✅
+Profit: %1.822 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 3 ✅
+Profit: %0.610 
+bildirim_ch(1822643215)= #COTIUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 0.05273
+Entry2: 0.05274  Ask:0.05273
+10:39:22.580Z - [s:1] run_user_signals();
+
+10:39:22.591Z - [s:1] u:5118957445|us:3 START COTIUSDT LONG 2023-07-17 10:38:23 entry1:0.05273 sl:0.0526 tp:0.05274 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+10:39:22.608Z - [s:1|u:5118957445|us:3] started
+10:39:24.444Z - [s:1|u:5118957445|us:3] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+10:39:24.740Z - [s:1|u:5118957445|us:3] leverage status: { symbol: 'COTIUSDT', leverage: '20', maxNotionalValue: '25000' }
+10:39:24.993Z - [s:1|u:5118957445|us:3] 5118957445 pyr_bnb COTIUSDT LONG 2023-07-17 10:39:22.577Z b:0.05269 a:0.05270 # o:0  c:0 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+bildirim(5118957445)= binance Emir açılamadı. OPEN COTIUSDT LONG ERROR price:0.05270 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır+
+10:39:27.072Z - [s:1|u:5118957445|us:3] binance Emir açılamadı. OPEN COTIUSDT LONG ERROR price:0.05270 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır+'"
+
+MySQL bağlantısı başarıyla gerçekleştirildi
+binance websocket started
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'bnbusdt@bookTicker' ], id: 1 }
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'ethusdt@bookTicker' ], id: 2 }
+bildirim_ch(1822643215)= #BNBUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 240.05
+Entry2: 240.07  Ask:240.050
+2023-07-17 10:42:09.760Z - [s:1] run_user_signals();
+
+2023-07-17 10:42:09.773Z - [s:1] u:5118957445|us:1 START BNBUSDT LONG 2023-07-17 10:41:41 entry1:240.05 sl:239.45 tp:240.07 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+2023-07-17 10:42:09.823Z - [s:1|u:5118957445|us:1] started
+2023-07-17 10:42:11.842Z - [s:1|u:5118957445|us:1] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+2023-07-17 10:42:12.144Z - [s:1|u:5118957445|us:1] leverage status: { symbol: 'BNBUSDT', leverage: '20', maxNotionalValue: '250000' }
+2023-07-17 10:42:12.400Z - [s:1|u:5118957445|us:1] 5118957445 pyr_bnb BNBUSDT LONG 2023-07-17 10:42:09.755Z b:240.040 a:240.050 # o:0  c:0 
+c_err: binanceusdm {"code":-4164,"msg":"Order's notional must be no smaller than 5 (unless you choose reduce only)."}   {
+  code: -4164,
+  msg: "Order's notional must be no smaller than 5 (unless you choose reduce only)."
+}
+order_ticket: {
+  code: -4164,
+  msg: "Order's notional must be no smaller than 5 (unless you choose reduce only)."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+orders: [
+  {
+    code: -4164,
+    msg: "Order's notional must be no smaller than 5 (unless you choose reduce only)."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+bildirim(5118957445)= binance Emir açılamadı. OPEN BNBUSDT LONG ERROR price:240.050 code:-4164 msg:Kapatmak istediğiniz lot miktarı 6 USDT den küçük olamaz. 6 USDT den daha küçük bir pozisyon kapatmaya çalışıyorsunuz. 
+2023-07-17 10:42:14.580Z - [s:1|u:5118957445|us:1] binance Emir açılamadı. OPEN BNBUSDT LONG ERROR price:240.050 code:-4164 msg:Kapatmak istediğiniz lot miktarı 6 USDT den küçük olamaz. 6 USDT den daha küçük bir pozisyon kapatmaya çalışıyorsunuz. '"
+
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 2 ✅
+Profit: %0.417 
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 1 ✅
+Profit: %0.417 
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 5 ✅
+Profit: %1.000 
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 4 ✅
+Profit: %1.000 
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 3 ✅
+Profit: %1.000 
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 2 ✅
+Profit: %1.000 
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 6 ✅
+Profit: %1.250 
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 5 ✅
+Profit: %1.250 
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 4 ✅
+Profit: %1.250 
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 3 ✅
+Profit: %1.250 
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 6 ✅
+Profit: %1.250 
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 5 ✅
+Profit: %1.250 
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 4 ✅
+Profit: %1.250 
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 6 ✅
+Profit: %1.250 
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 5 ✅
+Profit: %1.250 
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 6 ✅
+Profit: %1.250 
+bildirim_ch(1822643215)= #ETHUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 1901.41
+Entry2: 1901.6  Ask:1901.60
+2023-07-17 10:42:24.352Z - [s:2] run_user_signals();
+
+2023-07-17 10:42:24.360Z - [s:2] u:5118957445|us:2 START ETHUSDT LONG 2023-07-17 10:41:50 entry1:1901.41 sl:1896.66 tp:1901.6 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+2023-07-17 10:42:24.398Z - [s:2|u:5118957445|us:2] started
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 7 ✅
+Profit: %1.416 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 2 ✅
+Profit: %0.231 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 1 ✅
+Profit: %0.231 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 2 ✅
+Profit: %0.231 
+2023-07-17 10:42:26.604Z - [s:2|u:5118957445|us:2] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+2023-07-17 10:42:26.899Z - [s:2|u:5118957445|us:2] leverage status: { symbol: 'ETHUSDT', leverage: '20', maxNotionalValue: '10000000' }
+2023-07-17 10:42:27.157Z - [s:2|u:5118957445|us:2] 5118957445 pyr_bnb ETHUSDT LONG 2023-07-17 10:42:24.349Z b:1901.87 a:1901.88 # o:0  c:0 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+bildirim(5118957445)= binance Emir açılamadı. OPEN ETHUSDT LONG ERROR price:1901.88 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+2023-07-17 10:42:29.237Z - [s:2|u:5118957445|us:2] binance Emir açılamadı. OPEN ETHUSDT LONG ERROR price:1901.88 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır'"
+
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 3 ✅
+Profit: %0.400 
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 10 ✅
+Profit: %2.166 
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 9 ✅
+Profit: %2.166 
+bildirim_ch(1822643215)= #BNBUSDT LONG Take-Profit 8 ✅
+Profit: %2.166 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 5 ✅
+Profit: %0.947 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 4 ✅
+Profit: %0.947 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 5 ✅
+Profit: %0.947 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 6 ✅
+Profit: %1.062 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 7 ✅
+Profit: %1.210 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 8 ✅
+Profit: %1.462 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 9 ✅
+Profit: %1.725 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 10 ✅
+Profit: %1.883 
+MySQL bağlantısı başarıyla gerçekleştirildi
+binance websocket started
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'sandusdt@bookTicker' ], id: 1 }
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'ethusdt@bookTicker' ], id: 2 }
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'jasmyusdt@bookTicker' ], id: 3 }
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'flmusdt@bookTicker' ], id: 4 }
+bildirim_ch(1822643215)= #FLMUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 0.0687
+Entry2: 0.0687  Ask:0.0687
+2023-07-17 10:47:27.171Z - [s:4] run_user_signals();
+
+2023-07-17 10:47:27.200Z - [s:4] u:5118957445|us:1 START FLMUSDT LONG 2023-07-17 10:47:25 entry1:0.0687 sl:0.0685 tp:0.0687 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+2023-07-17 10:47:27.270Z - [s:4|u:5118957445|us:1] started
+2023-07-17 10:47:29.285Z - [s:4|u:5118957445|us:1] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+2023-07-17 10:47:29.590Z - [s:4|u:5118957445|us:1] leverage status: { symbol: 'FLMUSDT', leverage: '20', maxNotionalValue: '5000' }
+2023-07-17 10:47:29.851Z - [s:4|u:5118957445|us:1] 5118957445 pyr_bnb FLMUSDT LONG 2023-07-17 10:47:27.163Z b:0.0686 a:0.0687 # o:0  c:0 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+bildirim(5118957445)= binance Emir açılamadı. OPEN FLMUSDT LONG ERROR price:0.0687 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+2023-07-17 10:47:32.131Z - [s:4|u:5118957445|us:1] binance Emir açılamadı. OPEN FLMUSDT LONG ERROR price:0.0687 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır'"
+
+bildirim_ch(1822643215)= #FLMUSDT LONG Take-Profit 7 ✅
+Profit: %0.000 
+bildirim_ch(1822643215)= #FLMUSDT LONG Take-Profit 6 ✅
+Profit: %0.000 
+bildirim_ch(1822643215)= #FLMUSDT LONG Take-Profit 5 ✅
+Profit: %0.000 
+bildirim_ch(1822643215)= #FLMUSDT LONG Take-Profit 4 ✅
+Profit: %0.000 
+bildirim_ch(1822643215)= #FLMUSDT LONG Take-Profit 3 ✅
+Profit: %0.000 
+bildirim_ch(1822643215)= #FLMUSDT LONG Take-Profit 2 ✅
+Profit: %0.000 
+bildirim_ch(1822643215)= #FLMUSDT LONG Take-Profit 1 ✅
+Profit: %0.000 
+bildirim_ch(1822643215)= #FLMUSDT LONG Take-Profit 10 ✅
+Profit: %2.911 
+bildirim_ch(1822643215)= #FLMUSDT LONG Take-Profit 9 ✅
+Profit: %2.911 
+bildirim_ch(1822643215)= #FLMUSDT LONG Take-Profit 8 ✅
+Profit: %2.911 
+MySQL bağlantısı başarıyla gerçekleştirildi
+binance websocket started
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'ethusdt@bookTicker' ], id: 1 }
+bildirim_ch(1822643215)= #ETHUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 1908.98
+Entry2: 1909.17  Ask:1909.09
+2023-07-17 10:49:43.000Z - [s:1] run_user_signals();
+
+2023-07-17 10:49:43.014Z - [s:1] u:5118957445|us:1 START ETHUSDT LONG 2023-07-17 10:49:41 entry1:1908.98 sl:1904.21 tp:1909.17 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+2023-07-17 10:49:43.047Z - [s:1|u:5118957445|us:1] started
+2023-07-17 10:49:45.219Z - [s:1|u:5118957445|us:1] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+2023-07-17 10:49:45.538Z - [s:1|u:5118957445|us:1] leverage status: { symbol: 'ETHUSDT', leverage: '20', maxNotionalValue: '10000000' }
+2023-07-17 10:49:45.806Z - [s:1|u:5118957445|us:1] 5118957445 pyr_bnb ETHUSDT LONG 2023-07-17 10:49:42.995Z b:1908.77 a:1908.78 # o:0  c:0 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+bildirim(5118957445)= binance Emir açılamadı. OPEN ETHUSDT LONG ERROR price:1908.78 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+2023-07-17 10:49:47.992Z - [s:1|u:5118957445|us:1] binance Emir açılamadı. OPEN ETHUSDT LONG ERROR price:1908.78 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+
+2023-07-17 10:49:48.110Z - [s:1|u:5118957445|us:1] pyr_bnb ETHUSDT LONG ->  #-1 sinyal kapandı close:1908.78
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 1 ✅
+Profit: %0.210 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 2 ✅
+Profit: %0.304 
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'jasmyusdt@bookTicker' ], id: 2 }
+bildirim_ch(1822643215)= #JASMYUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 0.003938
+Entry2: 0.003938  Ask:0.003938
+2023-07-17 10:50:47.335Z - [s:2] run_user_signals();
+
+2023-07-17 10:50:47.354Z - [s:2] u:5118957445|us:2 START JASMYUSDT LONG 2023-07-17 10:50:45 entry1:0.003938 sl:0.003928 tp:0.003938 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+2023-07-17 10:50:47.458Z - [s:2|u:5118957445|us:2] started
+2023-07-17 10:50:49.386Z - [s:2|u:5118957445|us:2] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+2023-07-17 10:50:49.679Z - [s:2|u:5118957445|us:2] leverage status: { symbol: 'JASMYUSDT', leverage: '20', maxNotionalValue: '5000' }
+2023-07-17 10:50:49.933Z - [s:2|u:5118957445|us:2] 5118957445 pyr_bnb JASMYUSDT LONG 2023-07-17 10:50:47.330Z b:0.003936 a:0.003937 # o:0  c:0 
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'nknusdt@bookTicker' ], id: 3 }
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+bildirim(5118957445)= binance Emir açılamadı. OPEN JASMYUSDT LONG ERROR price:0.003937 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+2023-07-17 10:50:52.071Z - [s:2|u:5118957445|us:2] binance Emir açılamadı. OPEN JASMYUSDT LONG ERROR price:0.003937 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+
+2023-07-17 10:50:52.192Z - [s:2|u:5118957445|us:2] pyr_bnb JASMYUSDT LONG ->  #-1 sinyal kapandı close:0.003937
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'bchusdt@bookTicker' ], id: 4 }
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 1 ✅
+Profit: %0.000 
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'galausdt@bookTicker' ], id: 5 }
+bildirim_ch(1822643215)= #GALAUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 0.02558
+Entry2: 0.02558  Ask:0.02558
+2023-07-17 10:51:04.975Z - [s:5] run_user_signals();
+
+2023-07-17 10:51:04.987Z - [s:5] u:5118957445|us:3 START GALAUSDT LONG 2023-07-17 10:51:02 entry1:0.02558 sl:0.02552 tp:0.02558 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+2023-07-17 10:51:05.032Z - [s:5|u:5118957445|us:3] started
+bildirim_ch(1822643215)= #GALAUSDT LONG Take-Profit 1 ✅
+Profit: %0.000 
+2023-07-17 10:51:06.857Z - [s:5|u:5118957445|us:3] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+bildirim_ch(1822643215)= #GALAUSDT LONG Take-Profit 5 ✅
+Profit: %0.782 
+bildirim_ch(1822643215)= #GALAUSDT LONG Take-Profit 4 ✅
+Profit: %0.782 
+bildirim_ch(1822643215)= #GALAUSDT LONG Take-Profit 3 ✅
+Profit: %0.782 
+bildirim_ch(1822643215)= #GALAUSDT LONG Take-Profit 2 ✅
+Profit: %0.782 
+2023-07-17 10:51:07.157Z - [s:5|u:5118957445|us:3] leverage status: { symbol: 'GALAUSDT', leverage: '20', maxNotionalValue: '900000' }
+2023-07-17 10:51:07.410Z - [s:5|u:5118957445|us:3] 5118957445 pyr_bnb GALAUSDT LONG 2023-07-17 10:51:04.970Z b:0.02559 a:0.02560 # o:0  c:0 
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 3 ✅
+Profit: %0.508 
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 2 ✅
+Profit: %0.508 
+bildirim_ch(1822643215)= #GALAUSDT LONG Take-Profit 9 ✅
+Profit: %1.564 
+bildirim_ch(1822643215)= #GALAUSDT LONG Take-Profit 8 ✅
+Profit: %1.564 
+bildirim_ch(1822643215)= #GALAUSDT LONG Take-Profit 7 ✅
+Profit: %1.564 
+bildirim_ch(1822643215)= #GALAUSDT LONG Take-Profit 6 ✅
+Profit: %1.564 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 6 ✅
+Profit: %1.016 
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 5 ✅
+Profit: %1.016 
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 4 ✅
+Profit: %1.016 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+bildirim(5118957445)= binance Emir açılamadı. OPEN GALAUSDT LONG ERROR price:0.02560 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+2023-07-17 10:51:09.532Z - [s:5|u:5118957445|us:3] binance Emir açılamadı. OPEN GALAUSDT LONG ERROR price:0.02560 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+
+2023-07-17 10:51:09.660Z - [s:5|u:5118957445|us:3] pyr_bnb GALAUSDT LONG ->  #-1 sinyal kapandı close:0.0256
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 8 ✅
+Profit: %1.524 
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 7 ✅
+Profit: %1.524 
+bildirim_ch(1822643215)= #BCHUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 245.24
+Entry2: 245.26  Ask:245.24
+2023-07-17 10:51:14.266Z - [s:4] run_user_signals();
+
+2023-07-17 10:51:14.278Z - [s:4] u:5118957445|us:4 START BCHUSDT LONG 2023-07-17 10:50:54 entry1:245.24 sl:244.63 tp:245.26 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+2023-07-17 10:51:14.326Z - [s:4|u:5118957445|us:4] started
+bildirim_ch(1822643215)= #GALAUSDT LONG Take-Profit 10 ✅
+Profit: %2.346 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 2 ✅
+Profit: %0.489 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 1 ✅
+Profit: %0.489 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 2 ✅
+Profit: %0.489 
+2023-07-17 10:51:16.982Z - [s:4|u:5118957445|us:4] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+2023-07-17 10:51:17.281Z - [s:4|u:5118957445|us:4] leverage status: { symbol: 'BCHUSDT', leverage: '20', maxNotionalValue: '500000' }
+2023-07-17 10:51:17.534Z - [s:4|u:5118957445|us:4] 5118957445 pyr_bnb BCHUSDT LONG 2023-07-17 10:51:14.263Z b:245.24 a:245.25 # o:0  c:0 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+bildirim(5118957445)= binance Emir açılamadı. OPEN BCHUSDT LONG ERROR price:245.25 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+2023-07-17 10:51:19.778Z - [s:4|u:5118957445|us:4] binance Emir açılamadı. OPEN BCHUSDT LONG ERROR price:245.25 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+
+2023-07-17 10:51:19.873Z - [s:4|u:5118957445|us:4] pyr_bnb BCHUSDT LONG ->  #-1 sinyal kapandı close:245.25
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 5 ✅
+Profit: %0.979 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 4 ✅
+Profit: %0.979 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 3 ✅
+Profit: %0.979 
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 10 ✅
+Profit: %2.031 
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 9 ✅
+Profit: %2.031 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 4 ✅
+Profit: %0.816 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 5 ✅
+Profit: %1.060 
+bildirim_ch(1822643215)= #NKNUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 0.09883
+Entry2: 0.09884  Ask:0.09884
+2023-07-17 10:52:54.451Z - [s:3] run_user_signals();
+
+2023-07-17 10:52:54.471Z - [s:3] u:5118957445|us:5 START NKNUSDT LONG 2023-07-17 10:50:49 entry1:0.09883 sl:0.09858 tp:0.09884 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+2023-07-17 10:52:54.497Z - [s:3|u:5118957445|us:5] started
+2023-07-17 10:52:56.560Z - [s:3|u:5118957445|us:5] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+2023-07-17 10:52:56.857Z - [s:3|u:5118957445|us:5] leverage status: { symbol: 'NKNUSDT', leverage: '20', maxNotionalValue: '5000' }
+2023-07-17 10:52:57.109Z - [s:3|u:5118957445|us:5] 5118957445 pyr_bnb NKNUSDT LONG 2023-07-17 10:52:54.448Z b:0.09875 a:0.09883 # o:0  c:0 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+bildirim(5118957445)= binance Emir açılamadı. OPEN NKNUSDT LONG ERROR price:0.09883 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+2023-07-17 10:52:59.221Z - [s:3|u:5118957445|us:5] binance Emir açılamadı. OPEN NKNUSDT LONG ERROR price:0.09883 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+
+2023-07-17 10:52:59.360Z - [s:3|u:5118957445|us:5] pyr_bnb NKNUSDT LONG ->  #-1 sinyal kapandı close:0.09883
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 6 ✅
+Profit: %1.223 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 7 ✅
+Profit: %1.386 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 8 ✅
+Profit: %1.713 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 9 ✅
+Profit: %1.876 
+bildirim_ch(1822643215)= #NKNUSDT LONG Take-Profit 1 ✅
+Profit: %0.000 
+bildirim_ch(1822643215)= #NKNUSDT LONG Take-Profit 2 ✅
+Profit: %0.202 
+bildirim_ch(1822643215)= #BCHUSDT LONG Take-Profit 10 ✅
+Profit: %2.039 
+bildirim_ch(1822643215)= #NKNUSDT LONG Take-Profit 3 ✅
+Profit: %0.405 
+bildirim_ch(1822643215)= #NKNUSDT LONG Take-Profit 4 ✅
+Profit: %0.607 
+MySQL bağlantısı başarıyla gerçekleştirildi
+binance websocket started
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'ethusdt@bookTicker' ], id: 1 }
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'sandusdt@bookTicker' ], id: 2 }
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'bnbusdt@bookTicker' ], id: 3 }
+bildirim_ch(1822643215)= #BNBUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 241.61
+Entry2: 241.63  Ask:241.610
+2023-07-17 10:55:12.898Z - [s:3] run_user_signals();
+
+2023-07-17 10:55:12.918Z - [s:3] u:5118957445|us:1 START BNBUSDT LONG 2023-07-17 10:55:12 entry1:241.61 sl:241.01 tp:241.63 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+2023-07-17 10:55:12.963Z - [s:3|u:5118957445|us:1] started
+2023-07-17 10:55:14.979Z - [s:3|u:5118957445|us:1] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+2023-07-17 10:55:15.257Z - [s:3|u:5118957445|us:1] leverage status: { symbol: 'BNBUSDT', leverage: '20', maxNotionalValue: '250000' }
+2023-07-17 10:55:15.526Z - [s:3|u:5118957445|us:1] 5118957445 pyr_bnb BNBUSDT LONG 2023-07-17 10:55:12.892Z b:241.600 a:241.610 # o:0  c:0 
+bildirim_ch(1822643215)= #SANDUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 0.4438
+Entry2: 0.4438  Ask:0.44380
+2023-07-17 10:55:16.507Z - [s:2] run_user_signals();
+
+2023-07-17 10:55:16.517Z - [s:2] u:5118957445|us:2 START SANDUSDT LONG 2023-07-17 10:55:02 entry1:0.4438 sl:0.4427 tp:0.4438 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+2023-07-17 10:55:16.553Z - [s:2|u:5118957445|us:2] started
+c_err: binanceusdm {"code":-4164,"msg":"Order's notional must be no smaller than 5 (unless you choose reduce only)."}   {
+  code: -4164,
+  msg: "Order's notional must be no smaller than 5 (unless you choose reduce only)."
+}
+order_ticket: {
+  code: -4164,
+  msg: "Order's notional must be no smaller than 5 (unless you choose reduce only)."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+orders: [
+  {
+    code: -4164,
+    msg: "Order's notional must be no smaller than 5 (unless you choose reduce only)."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+bildirim(5118957445)= binance Emir açılamadı. OPEN BNBUSDT LONG ERROR price:241.610 code:-4164 msg:Kapatmak istediğiniz lot miktarı 6 USDT den küçük olamaz. 6 USDT den daha küçük bir pozisyon kapatmaya çalışıyorsunuz. 
+2023-07-17 10:55:17.870Z - [s:3|u:5118957445|us:1] binance Emir açılamadı. OPEN BNBUSDT LONG ERROR price:241.610 code:-4164 msg:Kapatmak istediğiniz lot miktarı 6 USDT den küçük olamaz. 6 USDT den daha küçük bir pozisyon kapatmaya çalışıyorsunuz. 
+
+2023-07-17 10:55:18.000Z - [s:3|u:5118957445|us:1] pyr_bnb BNBUSDT LONG ->  #-1 sinyal kapandı close:241.61
+2023-07-17 10:55:18.511Z - [s:2|u:5118957445|us:2] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+2023-07-17 10:55:18.813Z - [s:2|u:5118957445|us:2] leverage status: { symbol: 'SANDUSDT', leverage: '20', maxNotionalValue: '400000' }
+2023-07-17 10:55:19.066Z - [s:2|u:5118957445|us:2] 5118957445 pyr_bnb SANDUSDT LONG 2023-07-17 10:55:16.487Z b:0.44360 a:0.44370 # o:0  c:0 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+bildirim(5118957445)= binance Emir açılamadı. OPEN SANDUSDT LONG ERROR price:0.44370 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+2023-07-17 10:55:21.276Z - [s:2|u:5118957445|us:2] binance Emir açılamadı. OPEN SANDUSDT LONG ERROR price:0.44370 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+
+2023-07-17 10:55:21.362Z - [s:2|u:5118957445|us:2] pyr_bnb SANDUSDT LONG ->  #-1 sinyal kapandı close:0.4437
+bildirim_ch(1822643215)= #ETHUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 1909.23
+Entry2: 1909.42  Ask:1909.30
+2023-07-17 10:55:21.505Z - [s:1] run_user_signals();
+
+2023-07-17 10:55:21.516Z - [s:1] u:5118957445|us:3 START ETHUSDT LONG 2023-07-17 10:54:51 entry1:1909.23 sl:1904.46 tp:1909.42 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+2023-07-17 10:55:21.565Z - [s:1|u:5118957445|us:3] started
+2023-07-17 10:55:23.670Z - [s:1|u:5118957445|us:3] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+2023-07-17 10:55:23.959Z - [s:1|u:5118957445|us:3] leverage status: { symbol: 'ETHUSDT', leverage: '20', maxNotionalValue: '10000000' }
+2023-07-17 10:55:24.211Z - [s:1|u:5118957445|us:3] 5118957445 pyr_bnb ETHUSDT LONG 2023-07-17 10:55:21.500Z b:1909.12 a:1909.13 # o:0  c:0 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+bildirim(5118957445)= binance Emir açılamadı. OPEN ETHUSDT LONG ERROR price:1909.13 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+2023-07-17 10:55:26.275Z - [s:1|u:5118957445|us:3] binance Emir açılamadı. OPEN ETHUSDT LONG ERROR price:1909.13 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+
+2023-07-17 10:55:26.464Z - [s:1|u:5118957445|us:3] pyr_bnb ETHUSDT LONG ->  #-1 sinyal kapandı close:1909.13
+bildirim_ch(1822643215)= #SANDUSDT LONG Take-Profit 1 ✅
+Profit: %0.000 
+MySQL bağlantısı başarıyla gerçekleştirildi
+binance websocket started
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'sandusdt@bookTicker' ], id: 1 }
+run_signal error: TypeError: yourDate.toISOString is not a function
+    at format_date (/var/www/html/hknvip3/trade_bot_hknvip3.js:273:22)
+    at Timeout._onTimeout (/var/www/html/hknvip3/trade_bot_hknvip3.js:1902:16)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+run_signal error: TypeError: yourDate.toISOString is not a function
+    at format_date (/var/www/html/hknvip3/trade_bot_hknvip3.js:273:22)
+    at Timeout._onTimeout (/var/www/html/hknvip3/trade_bot_hknvip3.js:1902:16)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+run_signal error: TypeError: yourDate.toISOString is not a function
+    at format_date (/var/www/html/hknvip3/trade_bot_hknvip3.js:273:22)
+    at Timeout._onTimeout (/var/www/html/hknvip3/trade_bot_hknvip3.js:1902:16)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+run_signal error: TypeError: yourDate.toISOString is not a function
+    at format_date (/var/www/html/hknvip3/trade_bot_hknvip3.js:273:22)
+    at Timeout._onTimeout (/var/www/html/hknvip3/trade_bot_hknvip3.js:1902:16)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+run_signal error: TypeError: yourDate.toISOString is not a function
+    at format_date (/var/www/html/hknvip3/trade_bot_hknvip3.js:273:22)
+    at Timeout._onTimeout (/var/www/html/hknvip3/trade_bot_hknvip3.js:1902:16)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+run_signal error: TypeError: yourDate.toISOString is not a function
+    at format_date (/var/www/html/hknvip3/trade_bot_hknvip3.js:273:22)
+    at Timeout._onTimeout (/var/www/html/hknvip3/trade_bot_hknvip3.js:1902:16)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+run_signal error: TypeError: yourDate.toISOString is not a function
+    at format_date (/var/www/html/hknvip3/trade_bot_hknvip3.js:273:22)
+    at Timeout._onTimeout (/var/www/html/hknvip3/trade_bot_hknvip3.js:1902:16)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+run_signal error: TypeError: yourDate.toISOString is not a function
+    at format_date (/var/www/html/hknvip3/trade_bot_hknvip3.js:273:22)
+    at Timeout._onTimeout (/var/www/html/hknvip3/trade_bot_hknvip3.js:1902:16)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+run_signal error: TypeError: yourDate.toISOString is not a function
+    at format_date (/var/www/html/hknvip3/trade_bot_hknvip3.js:273:22)
+    at Timeout._onTimeout (/var/www/html/hknvip3/trade_bot_hknvip3.js:1902:16)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+run_signal error: TypeError: yourDate.toISOString is not a function
+    at format_date (/var/www/html/hknvip3/trade_bot_hknvip3.js:273:22)
+    at Timeout._onTimeout (/var/www/html/hknvip3/trade_bot_hknvip3.js:1902:16)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+MySQL bağlantısı başarıyla gerçekleştirildi
+binance websocket started
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'ftmusdt@bookTicker' ], id: 1 }
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'ethusdt@bookTicker' ], id: 2 }
+bildirim_ch(1822643215)= #ETHUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 1907.72
+Entry2: 1907.91  Ask:1907.72
+2023-07-17 10:57:54 - [s:2] run_user_signals();
+
+2023-07-17 10:57:54 - [s:2] u:5118957445|us:1 START ETHUSDT LONG 2023-07-17 10:57:53 entry1:1907.72 sl:1902.95 tp:1907.91 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+2023-07-17 10:57:54 - [s:2|u:5118957445|us:1] started
+2023-07-17 10:57:56 - [s:2|u:5118957445|us:1] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+2023-07-17 10:57:57 - [s:2|u:5118957445|us:1] leverage status: { symbol: 'ETHUSDT', leverage: '20', maxNotionalValue: '10000000' }
+2023-07-17 10:57:57 - [s:2|u:5118957445|us:1] 5118957445 pyr_bnb ETHUSDT LONG 2023-07-17 10:57:54 b:1907.71 a:1907.72 # o:0  c:0 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+bildirim(5118957445)= binance Emir açılamadı. OPEN ETHUSDT LONG ERROR price:1907.72 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+2023-07-17 10:57:59 - [s:2|u:5118957445|us:1] binance Emir açılamadı. OPEN ETHUSDT LONG ERROR price:1907.72 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+
+2023-07-17 10:57:59 - [s:2|u:5118957445|us:1] pyr_bnb ETHUSDT LONG ->  #-1 sinyal kapandı close:1907.72
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 1 ✅
+Profit: %0.283 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 2 ✅
+Profit: %0.577 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 3 ✅
+Profit: %0.723 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 4 ✅
+Profit: %0.902 
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'nknusdt@bookTicker' ], id: 3 }
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 5 ✅
+Profit: %1.174 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 6 ✅
+Profit: %1.206 
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'jasmyusdt@bookTicker' ], id: 4 }
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 7 ✅
+Profit: %1.604 
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 8 ✅
+Profit: %1.604 
+bildirim_ch(1822643215)= #NKNUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 0.09862
+Entry2: 0.09863  Ask:0.09863
+2023-07-17 10:58:56 - [s:3] run_user_signals();
+
+2023-07-17 10:58:56 - [s:3] u:5118957445|us:2 START NKNUSDT LONG 2023-07-17 10:58:28 entry1:0.09862 sl:0.09837 tp:0.09863 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+2023-07-17 10:58:56 - [s:3|u:5118957445|us:2] started
+2023-07-17 10:58:57 - [s:3|u:5118957445|us:2] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+2023-07-17 10:58:58 - [s:3|u:5118957445|us:2] leverage status: { symbol: 'NKNUSDT', leverage: '20', maxNotionalValue: '5000' }
+2023-07-17 10:58:58 - [s:3|u:5118957445|us:2] 5118957445 pyr_bnb NKNUSDT LONG 2023-07-17 10:58:56 b:0.09862 a:0.09863 # o:0  c:0 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+bildirim(5118957445)= binance Emir açılamadı. OPEN NKNUSDT LONG ERROR price:0.09863 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+2023-07-17 10:59:00 - [s:3|u:5118957445|us:2] binance Emir açılamadı. OPEN NKNUSDT LONG ERROR price:0.09863 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+
+2023-07-17 10:59:00 - [s:3|u:5118957445|us:2] pyr_bnb NKNUSDT LONG ->  #-1 sinyal kapandı close:0.09863
+bildirim_ch(1822643215)= #NKNUSDT LONG Take-Profit 1 ✅
+Profit: %0.203 
+bildirim_ch(1822643215)= #NKNUSDT LONG Take-Profit 2 ✅
+Profit: %0.203 
+bildirim_ch(1822643215)= #NKNUSDT LONG Take-Profit 3 ✅
+Profit: %0.406 
+bildirim_ch(1822643215)= #NKNUSDT LONG Take-Profit 4 ✅
+Profit: %1.014 
+bildirim_ch(1822643215)= #NKNUSDT LONG Take-Profit 5 ✅
+Profit: %1.014 
+bildirim_ch(1822643215)= #NKNUSDT LONG Take-Profit 6 ✅
+Profit: %1.014 
+bildirim_ch(1822643215)= #FTMUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 0.2627
+Entry2: 0.2627  Ask:0.262700
+2023-07-17 11:00:01 - [s:1] run_user_signals();
+
+2023-07-17 11:00:01 - [s:1] u:5118957445|us:3 START FTMUSDT LONG 2023-07-17 10:57:48 entry1:0.2627 sl:0.262 tp:0.2627 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+2023-07-17 11:00:01 - [s:1|u:5118957445|us:3] started
+2023-07-17 11:00:03 - [s:1|u:5118957445|us:3] margin_mode:
+{ code: 200, msg: 'success' }
+2023-07-17 11:00:04 - [s:1|u:5118957445|us:3] leverage status: { symbol: 'FTMUSDT', leverage: '20', maxNotionalValue: '400000' }
+2023-07-17 11:00:04 - [s:1|u:5118957445|us:3] 5118957445 pyr_bnb FTMUSDT LONG 2023-07-17 11:00:01 b:0.262500 a:0.262600 # o:0  c:0 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+bildirim(5118957445)= binance Emir açılamadı. OPEN FTMUSDT LONG ERROR price:0.262500 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+2023-07-17 11:00:06 - [s:1|u:5118957445|us:3] binance Emir açılamadı. OPEN FTMUSDT LONG ERROR price:0.262500 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+
+2023-07-17 11:00:06 - [s:1|u:5118957445|us:3] pyr_bnb FTMUSDT LONG ->  #-1 sinyal kapandı close:0.2625
+bildirim_ch(1822643215)= #NKNUSDT LONG Take-Profit 7 ✅
+Profit: %2.433 
+bildirim_ch(1822643215)= #NKNUSDT LONG Take-Profit 8 ✅
+Profit: %2.433 
+bildirim_ch(1822643215)= #NKNUSDT LONG Take-Profit 9 ✅
+Profit: %2.433 
+bildirim_ch(1822643215)= #FTMUSDT LONG Take-Profit 1 ✅
+Profit: %0.000 
+bildirim_ch(1822643215)= #FTMUSDT LONG Take-Profit 2 ✅
+Profit: %2.284 
+bildirim_ch(1822643215)= #FTMUSDT LONG Take-Profit 3 ✅
+Profit: %2.284 
+bildirim_ch(1822643215)= #FTMUSDT LONG Take-Profit 4 ✅
+Profit: %2.284 
+bildirim_ch(1822643215)= #FTMUSDT LONG Take-Profit 5 ✅
+Profit: %2.284 
+bildirim_ch(1822643215)= #FTMUSDT LONG Take-Profit 6 ✅
+Profit: %2.284 
+bildirim_ch(1822643215)= #FTMUSDT LONG Take-Profit 7 ✅
+Profit: %2.284 
+bildirim_ch(1822643215)= #FTMUSDT LONG Take-Profit 8 ✅
+Profit: %2.284 
+bildirim_ch(1822643215)= #FTMUSDT LONG Take-Profit 9 ✅
+Profit: %2.284 
+bildirim_ch(1822643215)= #JASMYUSDT LONG sinyal takibe alındı. ✅
+Entry1 : 0.003959
+Entry2: 0.003959  Ask:0.003959
+2023-07-17 11:01:51 - [s:4] run_user_signals();
+
+2023-07-17 11:01:51 - [s:4] u:5118957445|us:4 START JASMYUSDT LONG 2023-07-17 10:58:34 entry1:0.003959 sl:0.003949 tp:0.003959 api:pyr_bnb
+
+api_key: USWVZXtRZQVlFwB2OUjyuv2MDt6Zb5X5SOzSWjX8nGxgregb6Erozr4rLlP2uLgw  api_secret: ISNqCL9m3k15Qb45a1ZLeoFzlGPcwMUH2NYIVR5Y3wb1mrp4xSzbE3jcJVdLZAUi
+2023-07-17 11:01:51 - [s:4|u:5118957445|us:4] started
+2023-07-17 11:01:53 - [s:4|u:5118957445|us:4] margin_mode:
+{ code: -4046, msg: 'No need to change margin type.' }
+2023-07-17 11:01:53 - [s:4|u:5118957445|us:4] leverage status: { symbol: 'JASMYUSDT', leverage: '20', maxNotionalValue: '5000' }
+2023-07-17 11:01:53 - [s:4|u:5118957445|us:4] 5118957445 pyr_bnb JASMYUSDT LONG 2023-07-17 11:01:51 b:0.003958 a:0.003959 # o:0  c:0 
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+order_ticket: {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+c_err: binanceusdm {"code":-4061,"msg":"Order's position side does not match user's setting."}   {
+  code: -4061,
+  msg: "Order's position side does not match user's setting."
+}
+orders: [
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  },
+  {
+    code: -4061,
+    msg: "Order's position side does not match user's setting."
+  }
+]
+bildirim(5118957445)= binance Emir açılamadı. OPEN JASMYUSDT LONG ERROR price:0.003959 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+2023-07-17 11:01:56 - [s:4|u:5118957445|us:4] binance Emir açılamadı. OPEN JASMYUSDT LONG ERROR price:0.003959 code:-4061 msg:Hesabınız hedge modunda olduğu için işlem açılamamıştır. Hesabınız one-way moduna aldığınızda işlemleriniz açılacaktır
+
+2023-07-17 11:01:56 - [s:4|u:5118957445|us:4] pyr_bnb JASMYUSDT LONG ->  #-1 sinyal kapandı close:0.003959
+bildirim_ch(1822643215)= #ETHUSDT LONG Take-Profit 9 ✅
+Profit: %1.814 
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 1 ✅
+Profit: %0.000 
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 2 ✅
+Profit: %0.505 
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 3 ✅
+Profit: %0.505 
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 4 ✅
+Profit: %1.010 
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 5 ✅
+Profit: %1.010 
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 6 ✅
+Profit: %1.010 
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 7 ✅
+Profit: %1.516 
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 8 ✅
+Profit: %1.516 
+bildirim_ch(1822643215)= #JASMYUSDT LONG Take-Profit 9 ✅
+Profit: %2.021 

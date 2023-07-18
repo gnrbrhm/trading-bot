@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "ccxt": "^1.95.43",
+    "crpyto": "0.0.1-security",
+    "mysql": "^2.18.1",
+    "qs": "^6.11.0",
+    "request": "^2.88.2",
+    "sync-request": "^6.1.0",
+    "ws": "^8.8.0"
+  }
+}

@@ -1,0 +1,2 @@
+MySQL bağlantısı başarıyla gerçekleştirildi.
+binance websocket started

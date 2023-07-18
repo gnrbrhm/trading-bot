@@ -1,0 +1,9 @@
+MySQL bağlantısı başarıyla gerçekleştirildi.
+binance websocket started
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'galausdt@bookTicker' ], id: 1 }
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'sandusdt@bookTicker' ], id: 2 }
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'axsusdt@bookTicker' ], id: 3 }
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'ethusdt@bookTicker' ], id: 4 }
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'etcusdt@bookTicker' ], id: 5 }
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'opusdt@bookTicker' ], id: 6 }
+binance socket subscribe ->  { method: 'SUBSCRIBE', params: [ 'iotxusdt@bookTicker' ], id: 7 }
